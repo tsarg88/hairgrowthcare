@@ -1,35 +1,36 @@
 steps:
-  # Build the container image
+  # Docker Build
   - name: "gcr.io/cloud-builders/docker"
     args:
       [
         "build",
         "-t",
-        "${_REGISTRY_URL}/$PROJECT_ID/${_REGISTRY}/helloworld:$SHORT_SHA",
-        "-t",
-        "${_REGISTRY_URL}/$PROJECT_ID/${_REGISTRY}/helloworld:latest",
+        "us-central1-docker.pkg.dev/${PROJECT_ID}/my-docker-repo/myimage",
         ".",
+        "--network=cloudbuild",
       ]
-  # Push the container image to Container Registry
+
+  # Docker Push
   - name: "gcr.io/cloud-builders/docker"
-    args: ["push", "${_REGISTRY_URL}/$PROJECT_ID/${_REGISTRY}/helloworld"]
-  # Deploy container image to Cloud Run
-  - name: "gcr.io/google.com/cloudsdktool/cloud-sdk"
-    entrypoint: gcloud
     args:
       [
-        "run",
-        "deploy",
-        "helloworld",
-        "--project",
-        "${_PROJECT_NAME}",
-        "--platform",
-        "managed",
-        "--region",
-        "${_REGION}",
-        "--image",
-        "${_REGISTRY_URL}/$PROJECT_ID/${_REGISTRY}/helloworld:$SHORT_SHA",
-        "--port",
-        "3000",
-        "--allow-unauthenticated",
+        "push",
+        "us-central1-docker.pkg.dev/${PROJECT_ID}/my-docker-repo/myimage",
       ]
+
+  # Entrypoint, timeout and environment variables
+  - name: "gcr.io/google.com/cloudsdktool/cloud-sdk"
+    entrypoint: "gcloud"
+    timeout: 240s
+    args:
+      [
+        "compute",
+        "instances",
+        "create-with-container",
+        "my-vm-name",
+        "--container-image",
+        "us-central1-docker.pkg.dev/${PROJECT_ID}/my-docker-repo/myimage",
+      ]
+    env:
+      - "CLOUDSDK_COMPUTE_REGION=us-central1"
+      - "CLOUDSDK_COMPUTE_ZONE=us-central1-a"
