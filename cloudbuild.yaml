@@ -3,7 +3,7 @@ steps:
     args:
       - "run"
       - "deploy"
-      - "[hairgrowthcare]"
+      - "hairgrowthcare"
       - "--image"
       - "gcr.io/cloudrun/hello"
       - "--region"
