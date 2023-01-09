@@ -7,6 +7,7 @@ steps:
         "-t",
         "us-central1-docker.pkg.dev/${PROJECT_ID}/my-docker-repo/myimage",
         ".",
+        "--network=cloudbuild",
       ]
 
   # Docker Push
