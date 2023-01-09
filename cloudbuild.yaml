@@ -7,6 +7,6 @@ steps:
       - "--image"
       - "gcr.io/cloudrun/hello"
       - "--region"
-      - "[REGION]"
+      - "global"
       - "--platform"
       - "managed"
