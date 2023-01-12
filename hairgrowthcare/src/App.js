@@ -47,7 +47,7 @@ const About = () => (
     <h1 style={styles.heading}>About</h1>
     <p style={styles.paragraph}>
       Hello, thanks for visiting hairgrowthcare! Right now the site is under
-      construction! Please check back soon! 1
+      construction! Please check back soon! 11
     </p>
   </div>
 );
