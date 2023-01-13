@@ -2,20 +2,19 @@ import React from "react";
 import { useNav } from "../customHooks/useNav";
 import "./Page.css";
 
-export const Home = () => {
+export const Solutions = () => {
   // useNav takes in a navLinkId and returns a ref
   // this ref is used to register the navLinkId that's
   // currently in view, and apply activeClass styling
   // to the corresponding nav childElement
 
-  const homeRef = useNav("Home");
+  const homeRef = useNav("Solutions");
 
   return (
-    <section ref={homeRef} id="homeContainer">
+    <section ref={homeRef} id="solutionContainer">
       <div>
-        <h3 id="h3">HOME</h3>
-
-        <p>This is the home section</p>
+        <h3 id="h3">Solutions</h3>
+        <p>This is the Solutions section</p>
       </div>
       <div id="adPlace">
         <img

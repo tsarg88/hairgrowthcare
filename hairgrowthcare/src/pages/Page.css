@@ -61,3 +61,8 @@ section div {
     text-align: center;
   }
 }
+
+#h3 {
+  position: relative;
+  top: 8px;
+}
