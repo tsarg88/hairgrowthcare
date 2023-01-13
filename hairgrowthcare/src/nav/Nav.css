@@ -4,8 +4,8 @@ nav {
   z-index: 10;
   top: 0;
   padding: 1.2em 0;
-  color: white;
-  background-color: blue;
+  color: black;
+  background-color: rgba(241, 241, 241, 0.769);
   max-height: 4em;
   text-align: center;
 }

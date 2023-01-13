@@ -19,6 +19,29 @@ section div {
   display: block;
 }
 
+body {
+  /* font-family: "Roboto", Black 900 Italic; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  font-family: "Red Hat Display", sans-serif;
+  font-size: large;
+  width: 80%;
+  margin: 10px;
+  /* font-weight: bold; */
+}
+
+@media (max-width: 600px) {
+  p {
+    font-family: "Roboto", sans-serif;
+    width: 100%;
+  }
+}
+
 /* section img {
   width: 50%;
   margin-right: 200px;
