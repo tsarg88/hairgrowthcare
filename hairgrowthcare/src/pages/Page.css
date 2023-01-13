@@ -1,5 +1,6 @@
 section {
-  display: flex;
+  /* display: flex; */
+  display: block;
   align-items: center;
   justify-content: center;
   height: 100vh;
@@ -11,15 +12,17 @@ section:nth-child(even) {
   flex-direction: row-reverse;
 }
 
-section img,
+/* section img, */
 section div {
   height: auto;
   width: 100%;
+  display: block;
 }
 
-section img {
+/* section img {
   width: 50%;
-}
+  margin-right: 200px;
+} */
 
 section div {
   display: flex;
@@ -29,15 +32,32 @@ section div {
   padding: 1em;
 }
 
-@media screen and (max-width: 900px) {
-  section,
+/* @media screen and (max-width: 600px) {
+  /* section,
   section:nth-child(even) {
     flex-direction: column;
-  }
+  } */
 
-  section img {
-    height: auto;
-    width: auto;
-    max-width: 100vw;
+#adPlace {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* @media screen (max-width: 600px) {
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+#adPlace {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  #adPlace {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
   }
 }
