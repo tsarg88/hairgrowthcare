@@ -3,7 +3,7 @@ import "./Footer.css";
 
 export const Footer = () => (
   <footer>
-    <p>This site uses Amazon affiliate program</p>
+    <p>As an Amazon Associate I earn from qualifying purchases</p>
     <p>Copyright &copy; {new Date().getFullYear()} hairgrwothcare.com</p>
   </footer>
 );
