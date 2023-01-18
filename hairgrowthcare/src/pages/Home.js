@@ -17,7 +17,7 @@ export const Home = () => {
         <body>
           <p>Hello, thanks for visiting!</p>
           <p>
-            In this site you will find useful info and review about how to
+            test In this site you will find useful info and review about how to
             effectively fight hair loss and regrow!
           </p>
           <p>
