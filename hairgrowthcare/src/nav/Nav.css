@@ -11,10 +11,15 @@ nav {
 }
 
 @media only screen and (max-width: 768px) {
-  nav span {
+  nav {
     font-size: 15px;
     color: blue;
   }
+}
+
+.contact {
+  /* background-color: rgba(241, 241, 241, 0.769); */
+  /* color: yellow; */
 }
 
 nav span {
