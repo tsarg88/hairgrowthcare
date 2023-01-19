@@ -39,19 +39,24 @@ nav span {
 }
 
 @media (max-width: 500px) {
-  nav a {
-    font-size: 12px;
-  }
-}
-@media (max-width: 500px) {
-  nav a:link {
-    text-decoration: none;
+  nav {
+    display: block;
   }
 }
 
 @media (max-width: 500px) {
   nav span {
-    font-size: 12px;
+    font-size: 10px;
+  }
+}
+@media (max-width: 500px) {
+  nav a {
+    font-size: 10px;
+  }
+}
+@media (max-width: 500px) {
+  nav a:link {
+    text-decoration: none;
   }
 }
 
