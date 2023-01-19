@@ -53,6 +53,7 @@ p {
 @media (max-width: 600px) {
   p {
     font-family: "Roboto", sans-serif;
+    text-align: center;
     /* width: 100%; */
   }
 }
