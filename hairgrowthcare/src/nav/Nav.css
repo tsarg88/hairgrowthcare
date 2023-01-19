@@ -10,7 +10,16 @@ nav {
   text-align: center;
 }
 
+@media only screen and (max-width: 768px) {
+  nav span {
+    display: inline;
+    font-size: 15px;
+    color: blue;
+  }
+}
+
 nav span {
+  /* font-size: 18px; */
   font-size: 18px;
   border-bottom: 1px solid transparent;
   transition: border-bottom 0.2s ease;
