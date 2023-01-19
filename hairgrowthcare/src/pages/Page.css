@@ -7,7 +7,7 @@ section {
   width: 100%;
   border-bottom: 1px solid lightgrey;
 }
-@media (max-width: 500px) {
+/* @media (max-width: 500px) {
   body {
     display: contents;
   }
@@ -21,7 +21,7 @@ main {
   main {
     width: 400px;
   }
-}
+} */
 
 section:nth-child(even) {
   flex-direction: row-reverse;
