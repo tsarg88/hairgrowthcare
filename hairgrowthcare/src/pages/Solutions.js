@@ -17,10 +17,10 @@ export const Solutions = () => {
         <p>This is the Solutions section</p>
       </div>
       <div id="adPlace">
-        <img
+        {/* <img
           src="https://source.unsplash.com/random/600x600/?nature,water"
           alt="unsplash-img"
-        />
+        /> */}
       </div>
     </section>
   );
