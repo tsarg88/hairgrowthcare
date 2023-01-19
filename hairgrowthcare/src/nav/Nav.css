@@ -45,12 +45,12 @@ nav span {
 
 @media (max-width: 600px) {
   nav span {
-    font-size: 14px;
+    font-size: 13px;
   }
 }
 @media (max-width: 600px) {
   nav a {
-    font-size: 14px;
+    font-size: 13px;
   }
 }
 @media (max-width: 600px) {
