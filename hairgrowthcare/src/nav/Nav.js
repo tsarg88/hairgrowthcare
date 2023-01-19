@@ -5,12 +5,12 @@ import { navLinks } from "./navLinks.js";
 import "./Nav.css";
 import Contact from "../Contact/Contact";
 
-const styles = {
-  a: {
-    textDecoration: "none",
-    color: "black",
-  },
-};
+// const styles = {
+//   a: {
+//     textDecoration: "none",
+//     color: "black",
+//   },
+// };
 
 export const Nav = () => {
   return (
@@ -22,7 +22,7 @@ export const Nav = () => {
         <Route exact path="/contact" element={<Contact />} />
       </Routes>
       <Link to="/contact" target="_blank">
-        <a styles={styles.a}> Contact</a>
+        <a> Contact Us</a>
       </Link>
     </nav>
   );
