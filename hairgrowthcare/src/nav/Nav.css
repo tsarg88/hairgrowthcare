@@ -12,7 +12,6 @@ nav {
 
 @media only screen and (max-width: 768px) {
   nav span {
-    display: inline;
     font-size: 15px;
     color: blue;
   }
@@ -20,7 +19,7 @@ nav {
 
 nav span {
   /* font-size: 18px; */
-  font-size: 18px;
+  font-size: 15px;
   border-bottom: 1px solid transparent;
   transition: border-bottom 0.2s ease;
   transition-delay: 0.25s;
