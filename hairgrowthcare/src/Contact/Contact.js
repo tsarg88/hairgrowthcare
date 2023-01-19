@@ -1,41 +1,70 @@
-import React, { useState } from "react";
-import { useNav } from "../customHooks/useNav";
+import React, { useState, useEffect } from "react";
+import { db } from "../firebase";
+import "./Contact.css";
 
-export const Contact = () => {
+const Contact = () => {
   const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
+
+  const [loader, setLoader] = useState(false);
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // send name and message to server or email
-    console.log(name, message);
+    setLoader(true);
+
+    db.collection("contacts")
+      .add({
+        name: name,
+        email: email,
+        message: message,
+      })
+      .then(() => {
+        setLoader(false);
+        alert("Your message has been submitted👍");
+      })
+      .catch((error) => {
+        alert(error.message);
+        setLoader(false);
+      });
+
+    setName("");
+    setEmail("");
+    setMessage("");
   };
 
-  const homeRef = useNav("Contact");
-
   return (
-    <section ref={homeRef} id="contactContainer">
-      <form onSubmit={handleSubmit}>
-        <label>
-          Name:
-          <input
-            type="text"
-            value={name}
-            onChange={(e) => setName(e.target.value)}
-          />
-        </label>
-        <br />
-        <label>
-          Message:
-          <textarea
-            value={message}
-            onChange={(e) => setMessage(e.target.value)}
-          />
-        </label>
-        <br />
-        <button type="submit">Submit</button>
-      </form>
-    </section>
+    <form className="form" onSubmit={handleSubmit}>
+      <h1>Contact Us 🤳</h1>
+
+      <label>Name</label>
+      <input
+        placeholder="Name"
+        value={name}
+        onChange={(e) => setName(e.target.value)}
+      />
+
+      <label>Email</label>
+      <input
+        placeholder="Email"
+        value={email}
+        onChange={(e) => setEmail(e.target.value)}
+      />
+
+      <label>Message</label>
+      <textarea
+        placeholder="Message"
+        value={message}
+        onChange={(e) => setMessage(e.target.value)}
+      ></textarea>
+
+      <button
+        type="submit"
+        style={{ background: loader ? "#ccc" : " rgb(2, 2, 110)" }}
+      >
+        Submit
+      </button>
+    </form>
   );
 };
 
