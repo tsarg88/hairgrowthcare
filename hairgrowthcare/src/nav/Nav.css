@@ -13,7 +13,23 @@ nav a:link {
   text-decoration: none;
 }
 
+@media only screen and (max-width: 500px) {
+  nav {
+    width: 120%;
+    position: sticky;
+    /* z-index: 10; */
+    top: 0;
+    padding: 1.2em 0;
+    color: black;
+    background-color: rgba(241, 241, 241, 0.769);
+    max-height: 4em;
+    text-align: center;
+    margin-left: -16px;
+  }
+}
+
 nav span {
+  /* font-size: 18px; */
   font-size: 18px;
   border-bottom: 1px solid transparent;
   transition: border-bottom 0.2s ease;

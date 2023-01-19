@@ -1,8 +1,11 @@
 .appContainer {
   height: auto;
   width: 100vw;
-  display: flex;
+  display: contents;
   flex-direction: column;
   margin: 0;
   padding: 0;
+}
+div {
+  display: contents;
 }

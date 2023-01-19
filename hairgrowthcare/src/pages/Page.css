@@ -1,11 +1,26 @@
 section {
   /* display: flex; */
-  display: block;
+  /* display: block; */
   align-items: center;
   justify-content: center;
   height: 100vh;
   width: 100%;
   border-bottom: 1px solid lightgrey;
+}
+@media (max-width: 500px) {
+  body {
+    display: contents;
+  }
+}
+
+main {
+  display: contents;
+}
+
+@media (max-width: 500px) {
+  main {
+    width: 400px;
+  }
 }
 
 section:nth-child(even) {
@@ -16,12 +31,12 @@ section:nth-child(even) {
 section div {
   height: auto;
   width: 100%;
-  display: block;
+  /* display: block; */
 }
 
 body {
   /* font-family: "Roboto", Black 900 Italic; */
-  display: flex;
+  display: contents;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
