@@ -38,23 +38,23 @@ nav span {
   padding-bottom: 0.3em;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   nav {
     display: inline-block;
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   nav span {
-    font-size: 1px;
+    font-size: 9px;
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   nav a {
-    font-size: 1px;
+    font-size: 9px;
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   nav a:link {
     text-decoration: none;
   }
