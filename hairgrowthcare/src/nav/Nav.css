@@ -5,6 +5,7 @@ nav {
   top: 0;
   padding: 1.2em 0;
   color: black;
+  font-weight: bold;
   background-color: rgba(241, 241, 241, 0.769);
   max-height: 4em;
   text-align: center;
@@ -20,6 +21,7 @@ nav a:link {
     top: 0;
     padding: 1.2em 0;
     color: black;
+    font-weight: bold;
     background-color: rgba(241, 241, 241, 0.769);
     max-height: 4em;
     text-align: center;
@@ -75,4 +77,6 @@ nav span.activeClass i {
 
 nav span.activeClass {
   border-bottom-color: var(--lightAccent);
+  /* border-bottom-color: var(--yellow); */
+  /* color: blue; */
 }
