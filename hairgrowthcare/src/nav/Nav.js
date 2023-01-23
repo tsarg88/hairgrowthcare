@@ -22,7 +22,7 @@ export const Nav = () => {
         <Route exact path="/contact" element={<Contact />} />
       </Routes>
       <Link to="/contact" target="_blank">
-        <a> Contact Us</a>
+        <a> Contact</a>
       </Link>
     </nav>
   );

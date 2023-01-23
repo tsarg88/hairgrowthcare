@@ -64,7 +64,7 @@ const Contact = () => {
         </h1>
         <h2>
           If you have any questions or concerns, please fill the below form and
-          we will get back to you asap!
+          I will get back to you asap!
         </h2>
         <label>Name</label>
         <input
