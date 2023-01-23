@@ -60,14 +60,22 @@ const Contact = () => {
         value={name}
         onChange={(e) => setName(e.target.value)}
       />
-      {error.name && <p style={{ color: "red" }}>{error.name}</p>}
+      {error.name && (
+        <p style={{ color: "red", textAlign: "center", fontWeight: "bold" }}>
+          {error.name}
+        </p>
+      )}
       <label>Email</label>
       <input
         placeholder="Email"
         value={email}
         onChange={(e) => setEmail(e.target.value)}
       />
-      {error.email && <p style={{ color: "red" }}>{error.email}</p>}
+      {error.email && (
+        <p style={{ color: "red", textAlign: "center", fontWeight: "bold" }}>
+          {error.email}
+        </p>
+      )}
 
       <label>Message</label>
       <textarea
@@ -75,7 +83,11 @@ const Contact = () => {
         value={message}
         onChange={(e) => setMessage(e.target.value)}
       ></textarea>
-      {error.message && <p style={{ color: "red" }}>{error.message}</p>}
+      {error.message && (
+        <p style={{ color: "red", textAlign: "center", fontWeight: "bold" }}>
+          {error.message}
+        </p>
+      )}
 
       <button
         type="submit"
