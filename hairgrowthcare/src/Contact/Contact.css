@@ -36,6 +36,10 @@ button {
   }
 }
 
+#siteName {
+  color: red;
+}
+
 /* Contact.js */
 .form {
   height: 100vh;
