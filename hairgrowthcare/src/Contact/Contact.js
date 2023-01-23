@@ -1,6 +1,11 @@
 import React, { useState, useEffect } from "react";
 import { db } from "../firebase";
 import "./Contact.css";
+import { Nav } from "../nav/Nav";
+import { Route, Routes, Link } from "react-router-dom";
+import NavLink from "../nav/NavLink";
+import { navLinks } from "../nav/navLinks";
+import App from "../App";
 
 const Contact = () => {
   const [name, setName] = useState("");
@@ -45,57 +50,65 @@ const Contact = () => {
     }
   };
   return (
-    <form className="form" onSubmit={handleSubmit}>
-      <h1>
-        Hello, thanks again for visiting{" "}
-        <span id="siteName">hairgrowthcare.com</span>!
-      </h1>
-      <h2>
-        If you have any questions or concerns, please fill the below form and we
-        will get back to you asap!
-      </h2>
-      <label>Name</label>
-      <input
-        placeholder="Name"
-        value={name}
-        onChange={(e) => setName(e.target.value)}
-      />
-      {error.name && (
-        <p style={{ color: "red", textAlign: "center", fontWeight: "bold" }}>
-          {error.name}
-        </p>
-      )}
-      <label>Email</label>
-      <input
-        placeholder="Email"
-        value={email}
-        onChange={(e) => setEmail(e.target.value)}
-      />
-      {error.email && (
-        <p style={{ color: "red", textAlign: "center", fontWeight: "bold" }}>
-          {error.email}
-        </p>
-      )}
+    <>
+      <nav>
+        <Link to="/" target="_blank">
+          <Nav />
+        </Link>
+      </nav>
 
-      <label>Message</label>
-      <textarea
-        placeholder="Message"
-        value={message}
-        onChange={(e) => setMessage(e.target.value)}
-      ></textarea>
-      {error.message && (
-        <p style={{ color: "red", textAlign: "center", fontWeight: "bold" }}>
-          {error.message}
-        </p>
-      )}
+      <form className="form" onSubmit={handleSubmit}>
+        <h1>
+          Hello, thanks again for visiting{" "}
+          <span id="siteName">hairgrowthcare.com</span>!
+        </h1>
+        <h2>
+          If you have any questions or concerns, please fill the below form and
+          we will get back to you asap!
+        </h2>
+        <label>Name</label>
+        <input
+          placeholder="Name"
+          value={name}
+          onChange={(e) => setName(e.target.value)}
+        />
+        {error.name && (
+          <p style={{ color: "red", textAlign: "center", fontWeight: "bold" }}>
+            {error.name}
+          </p>
+        )}
+        <label>Email</label>
+        <input
+          placeholder="Email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+        />
+        {error.email && (
+          <p style={{ color: "red", textAlign: "center", fontWeight: "bold" }}>
+            {error.email}
+          </p>
+        )}
 
-      <button
-        type="submit"
-        style={{ background: loader ? "#ccc" : " rgb(2, 2, 110)" }}
-      >
-        Submit
-      </button>
-    </form>
+        <label>Message</label>
+        <textarea
+          placeholder="Message"
+          value={message}
+          onChange={(e) => setMessage(e.target.value)}
+        ></textarea>
+        {error.message && (
+          <p style={{ color: "red", textAlign: "center", fontWeight: "bold" }}>
+            {error.message}
+          </p>
+        )}
+
+        <button
+          type="submit"
+          style={{ background: loader ? "#ccc" : " rgb(2, 2, 110)" }}
+        >
+          Submit
+        </button>
+      </form>
+    </>
   );
 };
 
