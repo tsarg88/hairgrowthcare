@@ -47,7 +47,7 @@ nav span {
 
 @media (max-width: 600px) {
   nav span {
-    font-size: 14px;
+    font-size: 12.5px;
   }
 }
 @media (max-width: 600px) {
@@ -77,5 +77,5 @@ nav span.activeClass i {
 nav span.activeClass {
   border-bottom-color: var(--lightAccent);
   /* border-bottom-color: var(--yellow); */
-  /* color: blue; */
+  color: blue;
 }
