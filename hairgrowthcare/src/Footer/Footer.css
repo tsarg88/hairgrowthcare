@@ -13,3 +13,6 @@ footer {
     justify-content: center;
   }
 }
+#contactMe {
+  display: none;
+}

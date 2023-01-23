@@ -91,7 +91,7 @@ textarea:focus {
 
 @media (max-width: 600px) {
   .form > label {
-    margin-bottom: -16px;
+    margin-bottom: -10px;
   }
 }
 
