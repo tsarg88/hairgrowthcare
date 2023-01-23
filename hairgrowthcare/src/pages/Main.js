@@ -6,13 +6,15 @@ import { Lllt } from "./LLLT";
 // import Contact from "./Contact";
 
 export const Main = () => (
-  <main>
+  //   <main>
+  <>
     <Home />
     <Solutions />
     <Dermaroller />
     <Lllt />
     {/* <Contact /> */}
-  </main>
+  </>
+  //   </main>
 );
 
 // export default Main;
