@@ -46,6 +46,8 @@ button {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  text-align: center;
+  margin-left: 12px;
 }
 
 .form > h1 {
@@ -85,6 +87,12 @@ textarea:focus {
   color: rgb(0, 0, 32);
   font-weight: bold;
   margin-bottom: -45px;
+}
+
+@media (max-width: 600px) {
+  .form > label {
+    margin-bottom: -16px;
+  }
 }
 
 .form > button {

@@ -2,7 +2,14 @@ footer {
   display: flex;
   text-align: center;
 }
-/* #contactMe {
-  display: block;
-  margin-left: 20px;
-} */
+footer {
+  display: flex;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  footer {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
