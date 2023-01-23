@@ -35,8 +35,8 @@ const Contact = () => {
 
   return (
     <form className="form" onSubmit={handleSubmit}>
-      <h1>Contact Us 🤳</h1>
-
+      <h1>Hello, thanks again for visiting hairgrowthcare.com!</h1>
+      <h2>Please fill the below form and we will get back to you asap!</h2>
       <label>Name</label>
       <input
         placeholder="Name"

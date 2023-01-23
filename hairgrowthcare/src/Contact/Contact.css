@@ -18,9 +18,22 @@ button {
 }
 
 .app {
-  width: 400px;
+  width: 200px;
   margin: 0 auto;
   height: 100vh;
+}
+
+@media only screen and (max-width: 600px) {
+  .app {
+    width: 90%;
+  }
+  .form > input,
+  textarea {
+    width: 100%;
+  }
+  .form > textarea {
+    max-width: 100%;
+  }
 }
 
 /* Contact.js */
@@ -32,6 +45,9 @@ button {
 }
 
 .form > h1 {
+  margin-bottom: 30px;
+}
+.form > h2 {
   margin-bottom: 30px;
 }
 
