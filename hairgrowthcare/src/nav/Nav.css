@@ -41,14 +41,13 @@ nav span {
 
 @media (max-width: 600px) {
   nav {
-    display: inline-block;
     width: 416px;
   }
 }
 
 @media (max-width: 600px) {
   nav span {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 @media (max-width: 600px) {
