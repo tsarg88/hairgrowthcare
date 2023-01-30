@@ -2,9 +2,9 @@ import React, { useState, useEffect } from "react";
 import { db } from "../firebase";
 import "./Contact.css";
 import { Nav } from "../nav/Nav";
-import { Route, Routes, Link } from "react-router-dom";
-import NavLink from "../nav/NavLink";
-import { navLinks } from "../nav/navLinks";
+import { useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
+
 import App from "../App";
 
 const Contact = () => {
@@ -13,6 +13,7 @@ const Contact = () => {
   const [message, setMessage] = useState("");
   const [error, setError] = useState({}); // added
   const [loader, setLoader] = useState(false);
+  const navigate = useNavigate();
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -37,7 +38,8 @@ const Contact = () => {
         })
         .then(() => {
           setLoader(false);
-          alert("Thanks! Your message has been received!");
+          //   alert("Thanks! Your message has been received!");
+          navigate("/");
         })
         .catch((error) => {
           alert(error.message);

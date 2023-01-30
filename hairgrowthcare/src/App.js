@@ -6,6 +6,7 @@ import { Main } from "./pages/Main.js";
 import NavProvider from "./context/NavContext";
 import { Footer } from "./Footer/Footer";
 import "./App.css";
+import { Confirmation } from "./pages/Confirmation";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
             }
           />
           <Route exact path="/contact" element={<Contact />} />
+          <Route exact path="/confirmation" element={<Confirmation />} />
         </Routes>
       </NavProvider>
       <Footer />

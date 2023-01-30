@@ -4,6 +4,7 @@ import NavLink from "./NavLink";
 import { navLinks } from "./navLinks.js";
 import "./Nav.css";
 import Contact from "../Contact/Contact";
+import { Confirmation } from "../pages/Confirmation";
 
 // const styles = {
 //   a: {
@@ -18,9 +19,7 @@ export const Nav = () => {
       {navLinks.map(({ navLinkId, scrollToId }, idx) => (
         <NavLink key={idx} navLinkId={navLinkId} scrollToId={scrollToId} />
       ))}
-      <Routes>
-        <Route exact path="/contact" element={<Contact />} />
-      </Routes>
+
       <Link to="/contact" target="_blank">
         <a> Contact</a>
       </Link>
