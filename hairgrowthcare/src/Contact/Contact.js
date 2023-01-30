@@ -39,7 +39,7 @@ const Contact = () => {
         .then(() => {
           setLoader(false);
           //   alert("Thanks! Your message has been received!");
-          navigate("/");
+          navigate("/confirmation");
         })
         .catch((error) => {
           alert(error.message);
