@@ -15,7 +15,11 @@ export const Home = () => {
       <div>
         <h3 id="h3">HOME</h3>
         <body>
-          <p>Hello, thanks for visiting!</p>
+          <p>
+            Hello, thanks for visiting{" "}
+            <span id="siteColor">hairgrowthcare.com!</span>
+          </p>
+
           <p>
             In this site you will find useful info and review about how to
             effectively fight hair loss and regrow!
@@ -44,12 +48,7 @@ export const Home = () => {
           </p>
         </body>
       </div>
-      <div id="adPlace">
-        {/* <img
-          src="https://source.unsplash.com/random/600x600/?nature,water"
-          alt="unsplash-img"
-        /> */}
-      </div>
+      <div id="adPlace"></div>
     </section>
   );
 };
