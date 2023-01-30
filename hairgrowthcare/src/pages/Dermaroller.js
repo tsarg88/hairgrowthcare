@@ -14,7 +14,9 @@ export const Dermaroller = () => {
     <section ref={homeRef} id="dermarollerContainer">
       <div>
         <h3 id="h3">Dermaroller</h3>
-        <p>This is the Dermaroller section</p>
+        <body>
+          <p>This is the Dermaroller section</p>
+        </body>
       </div>
       <div id="adPlace">
         {/* <img

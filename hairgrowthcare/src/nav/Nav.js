@@ -21,7 +21,9 @@ export const Nav = () => {
       ))}
 
       <Link to="/contact" target="_blank">
-        <a> Contact</a>
+        <span id="contact">
+          <a> Contact</a>
+        </span>
       </Link>
     </nav>
   );
