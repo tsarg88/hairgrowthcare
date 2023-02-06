@@ -1,6 +1,7 @@
 import React from "react";
 import { useNav } from "../customHooks/useNav";
 import "./Page.css";
+import kirkland from "../images/kirkland.jpg";
 
 export const Solutions = () => {
   // useNav takes in a navLinkId and returns a ref
@@ -46,11 +47,10 @@ export const Solutions = () => {
           </p>
         </body>
       </div>
-      <div id="adPlace">
-        {/* <img
-          src="https://source.unsplash.com/random/600x600/?nature,water"
-          alt="unsplash-img"
-        /> */}
+      <div className="adPlace">
+        <a href="https://www.amazon.com/gp/product/B008BMOEGA" target="_blank">
+          <img src={kirkland} alt="ad-image" />
+        </a>
       </div>
     </section>
   );

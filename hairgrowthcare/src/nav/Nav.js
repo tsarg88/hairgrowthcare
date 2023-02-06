@@ -21,9 +21,10 @@ export const Nav = () => {
       ))}
 
       <Link to="/contact" target="_blank">
-        <span id="contact">
-          <a> Contact</a>
-        </span>
+        {/* <span id="contact"> */}
+        {/* <a> Contact</a> */}
+        {/* style={{ fontWeight: "bold", fontSize: "13px" }} */}
+        {/* </span> */}
       </Link>
     </nav>
   );

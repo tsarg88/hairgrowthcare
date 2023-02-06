@@ -109,3 +109,26 @@ section div {
 #siteColor {
   color: red;
 }
+
+#contact {
+  /* color: yellow; */
+}
+
+.adPlace {
+  width: 500px !important;
+  height: 442px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.adPlace img {
+  max-width: 100%;
+  height: auto;
+}
+@media only screen and (max-width: 767px) {
+  .adPlace {
+    width: 90%;
+    height: auto;
+  }
+}
