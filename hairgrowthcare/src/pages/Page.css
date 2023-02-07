@@ -115,8 +115,8 @@ section div {
 }
 
 .adPlace {
-  width: 500px !important;
-  height: 442px;
+  width: 156px !important;
+  height: 434px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -131,4 +131,9 @@ section div {
     width: 90%;
     height: auto;
   }
+}
+
+iframe {
+  width: 600px !important;
+  height: 600px !important;
 }

@@ -48,9 +48,17 @@ export const Solutions = () => {
         </body>
       </div>
       <div className="adPlace">
-        <a href="https://www.amazon.com/gp/product/B008BMOEGA" target="_blank">
+        {/* <a href="https://www.amazon.com/gp/product/B008BMOEGA" target="_blank">
           <img src={kirkland} alt="ad-image" />
-        </a>
+        </a> */}
+        <iframe
+          style={{ width: "500px", height: "500px" }}
+          marginwidth="0"
+          marginheight="0"
+          scrolling="no"
+          frameborder="0"
+          src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B008BMOEGA&asins=B008BMOEGA&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+        ></iframe>
       </div>
     </section>
   );

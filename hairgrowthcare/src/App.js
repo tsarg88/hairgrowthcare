@@ -6,7 +6,10 @@ import { Main } from "./pages/Main.js";
 import NavProvider from "./context/NavContext";
 import { Footer } from "./Footer/Footer";
 import "./App.css";
-import { Confirmation } from "./pages/Confirmation";
+import Confirmation from "./pages/Confirmation";
+import ContactIcon from "./images/contact.png";
+
+import { FaBeer } from "react-icons/fa";
 
 function App() {
   return (
@@ -18,6 +21,8 @@ function App() {
             path="/"
             element={
               <div>
+                <img src={ContactIcon} />
+
                 <Nav />
                 <Main />
               </div>

@@ -1,16 +1,19 @@
 footer {
+  /* display: flex; */
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+/* footer {
   display: flex;
   text-align: center;
-}
-footer {
-  display: flex;
-  text-align: center;
-}
+} */
 
 @media (max-width: 768px) {
   footer {
     flex-wrap: wrap;
     justify-content: center;
+    text-align: center;
   }
 }
 /* #contactMe {
