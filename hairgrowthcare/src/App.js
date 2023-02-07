@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Routes } from "react-router-dom";
+import { Link, Route, Routes } from "react-router-dom";
 import Contact from "./Contact/Contact";
 import { Nav } from "./nav/Nav.js";
 import { Main } from "./pages/Main.js";
@@ -21,7 +21,12 @@ function App() {
             path="/"
             element={
               <div>
-                <img src={ContactIcon} />
+                <Link to="/contact" target="_blank">
+                  <div className="icon">
+                    {" "}
+                    <img src={ContactIcon} />{" "}
+                  </div>
+                </Link>
 
                 <Nav />
                 <Main />

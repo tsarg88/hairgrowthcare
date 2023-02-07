@@ -4,38 +4,28 @@
 
 html,
 body {
-  width: auto !important;
+  width: 100% !important;
   overflow-x: hidden !important;
 }
-/* body {
+
+body {
   max-width: 720px;
   margin: 0 auto;
   background-color: aliceblue;
-} */
-
-section {
-  /* display: flex; */
-  /* display: block; */
-  align-items: center;
-  justify-content: center;
-  height: 134vh;
-
-  border-bottom: 1px solid lightgrey;
 }
 
-section:nth-child(even) {
-  flex-direction: row-reverse;
+section {
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  border-bottom: 1px solid lightgrey;
 }
 
 #homeContainer {
   display: initial;
-  /* flex-wrap: wrap;
-  justify-content: center;
-  align-items: center; */
 }
 
 body {
-  /* font-family: "Roboto", Black 900 Italic; */
   display: initial;
   flex-wrap: wrap;
   justify-content: center;
@@ -44,41 +34,16 @@ body {
   background-color: white;
 }
 
-/* @media (max-width: 600px) {
-  body {
-    display: initial;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    max-width: 720px;
-    background-color: white;
-  }
-} */
-
 #h3 {
   margin-top: 50px;
   color: blue;
 }
 
 p {
-  /* font-family: "Red Hat Display", sans-serif; */
   font-size: large;
-
   margin: 10px;
-  /* font-weight: bold; */
+  text-align: center;
 }
-
-@media (max-width: 600px) {
-  p {
-    /* font-family: "Roboto", sans-serif; */
-    text-align: center;
-  }
-}
-
-/* section img {
-  width: 50%;
-  margin-right: 200px;
-} */
 
 section div {
   display: flex;
@@ -87,36 +52,14 @@ section div {
   justify-content: flex-start;
   padding: 1em;
 }
-/* #solutionContainer {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  padding: 1em;
-  max-width: 720px;
-} */
-
-@media (max-width: 600px) {
-  section div {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
-    padding: 1em;
-  }
-}
 
 #siteColor {
   color: red;
 }
 
-#contact {
-  /* color: yellow; */
-}
-
 .adPlace {
-  width: 156px !important;
-  height: 434px;
+  margin-left: 476px;
+  height: auto;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -126,14 +69,8 @@ section div {
   max-width: 100%;
   height: auto;
 }
-@media only screen and (max-width: 767px) {
-  .adPlace {
-    width: 90%;
-    height: auto;
-  }
-}
 
 iframe {
   width: 600px !important;
-  height: 600px !important;
+  height: 326px !important;
 }
