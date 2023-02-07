@@ -19,6 +19,7 @@ section {
   justify-content: center;
   height: auto;
   border-bottom: 1px solid lightgrey;
+  height: 110vh;
 }
 
 #homeContainer {
@@ -75,22 +76,24 @@ iframe {
   height: 326px !important;
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 500px) {
   body {
     max-width: 100%;
     margin: 0;
   }
 
   section {
-    border: none;
+    /* border: none; */
+    border-bottom: 1px solid lightgrey;
+    height: 171vh;
   }
 
   .adPlace {
-    margin-left: 0;
+    margin-left: 81px;
   }
 
   iframe {
-    width: 100% !important;
-    height: auto !important;
+    width: 200px !important;
+    height: 300 !important;
   }
 }

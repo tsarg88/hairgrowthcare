@@ -1,9 +1,14 @@
-import React from "react";
+import React, { useEffect } from "react";
+
 import "./Confirmation.css";
 import { Link } from "react-router-dom";
 import { Nav } from "../nav/Nav";
 
 export const Confirmation = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <section>
       <div className="main">

@@ -53,18 +53,18 @@ const Contact = () => {
   };
   return (
     <>
-      <nav>
-        <Link to="/" target="_blank">
-          <Nav />
-        </Link>
-      </nav>
+      {/* <nav> */}
+      <Link to="/" target="_blank">
+        <Nav />
+      </Link>
+      {/* </nav> */}
 
       <form className="form" onSubmit={handleSubmit}>
-        <h1>
+        <h1 className="h1">
           Hello, thanks again for visiting{" "}
           <span id="siteName">hairgrowthcare.com</span>!
         </h1>
-        <h2>
+        <h2 className="h2">
           If you have any questions or concerns, please fill the below form and
           I will get back to you asap!
         </h2>

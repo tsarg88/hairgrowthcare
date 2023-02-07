@@ -1,9 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 * {
-  margin: auto;
+  /* margin: auto; */
+  align-items: center;
   padding: 0;
   box-sizing: border-box;
+
+  /* flex-direction: inherit; */
 }
 
 body {
@@ -42,7 +45,7 @@ button {
 
 /* Contact.js */
 .form {
-  height: 100vh;
+  /* height: 100vh; */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -69,6 +72,8 @@ textarea {
   font-size: 16px;
   color: rgb(0, 0, 32);
   outline: none;
+
+  margin-top: 51px;
 }
 
 .form > input:focus,
