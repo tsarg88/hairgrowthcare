@@ -40,7 +40,7 @@ body {
 }
 
 p {
-  max-width: 100%;
+  /* max-width: 100%; */
   font-size: large;
   margin: 10px;
   text-align: center;
@@ -66,11 +66,12 @@ section div {
 }
 
 .adPlace {
+  width: 1px;
   margin-left: 476px;
   height: 285px;
   /* display: flex; */
-  justify-content: center;
-  align-items: center;
+  /* justify-content: center;
+  align-items: center; */
 }
 
 /* .adPlace img {
@@ -91,7 +92,7 @@ iframe {
 
 @media only screen and (max-width: 720px) {
   body {
-    max-width: 100% !important;
+    max-width: 355px !important;
     margin: 0;
   }
 
