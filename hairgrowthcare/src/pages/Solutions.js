@@ -197,7 +197,7 @@ export const Solutions = () => {
             I think is an excellent <strong>alternative</strong> to Finasteride!
           </p>
           <div className="adPlace_keeps">
-            {/* <iframe
+            <iframe
               style={{ width: "500px", height: "500px" }}
               marginwidth="0"
               marginheight="0"
@@ -212,8 +212,8 @@ export const Solutions = () => {
               scrolling="no"
               frameborder="0"
               src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B0994YMK1Z&asins=B0994YMK1Z&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
-            ></iframe> */}
-            {/*  tes */}
+            ></iframe>
+             
           </div>
         </body>
       </div>

@@ -59,16 +59,16 @@ section div {
 }
 
 .adPlace {
-  margin-left: 476px;
-  height: auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin-left: 476px !important;
+  height: auto !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
 }
 
 .adPlace img {
-  max-width: 100%;
-  height: auto;
+  max-width: 100% !important;
+  height: auto !important;
 }
 
 iframe {
