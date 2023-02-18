@@ -19,7 +19,6 @@ section {
   justify-content: center;
   height: auto;
   border-bottom: 1px solid lightgrey;
-  height: 110vh;
 }
 
 #homeContainer {
@@ -59,16 +58,16 @@ section div {
 }
 
 .adPlace {
-  margin-left: 476px !important;
-  height: auto !important;
-  display: flex !important;
-  justify-content: center !important;
-  align-items: center !important;
+  margin-left: 476px;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .adPlace img {
-  max-width: 100% !important;
-  height: auto !important;
+  max-width: 100%;
+  height: auto;
 }
 
 iframe {
@@ -76,24 +75,22 @@ iframe {
   height: 326px !important;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 720px) {
   body {
     max-width: 100%;
     margin: 0;
   }
 
   section {
-    /* border: none; */
-    border-bottom: 1px solid lightgrey;
-    height: 171vh;
+    border: none;
   }
 
   .adPlace {
-    margin-left: 81px;
+    margin-left: 0;
   }
 
   iframe {
-    width: 200px !important;
-    height: 300 !important;
+    width: 100% !important;
+    height: auto !important;
   }
 }
