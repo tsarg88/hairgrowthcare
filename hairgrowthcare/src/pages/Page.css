@@ -74,16 +74,16 @@ section div {
   align-items: center; */
 }
 
-/* .adPlace img {
+.adPlace img {
   max-width: 100%;
   height: auto;
-} */
+}
 
-/* .adPlace_keeps {
+.adPlace_keeps {
   display: flex;
   flex-direction: row;
   margin-left: 123px;
-} */
+}
 
 iframe {
   width: 600px !important;
@@ -108,8 +108,8 @@ iframe {
     width: 200px !important;
     /* height: auto !important; */
   }
-  /* .adPlace_keeps {
-    flex-direction: column;
-    margin-left: 123px;
-  } */
+  .adPlace_keeps {
+    flex-direction: row;
+    margin-left: 0px;
+  }
 }
