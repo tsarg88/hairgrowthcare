@@ -43,7 +43,7 @@ export const Solutions = () => {
           <p>
             That's why I recommend Keeps, because you can buy, besides Extra
             Strength 5% minoxidil, a good Shampoo and Conditioner to help stop
-            hair loss and promote healthy hair growth. tuqhanaaa
+            hair loss and promote healthy hair growth. tuqhanaaasfsdfdsfsd
           </p>
         </body>
       </div>
