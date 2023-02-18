@@ -68,21 +68,21 @@ section div {
 .adPlace {
   margin-left: 476px;
   height: 285px;
-  display: flex;
+  /* display: flex; */
   justify-content: center;
   align-items: center;
 }
 
-.adPlace img {
+/* .adPlace img {
   max-width: 100%;
   height: auto;
-}
+} */
 
-.adPlace_keeps {
+/* .adPlace_keeps {
   display: flex;
   flex-direction: row;
   margin-left: 123px;
-}
+} */
 
 iframe {
   width: 600px !important;
@@ -107,8 +107,8 @@ iframe {
     width: 100% !important;
     /* height: auto !important; */
   }
-  .adPlace_keeps {
+  /* .adPlace_keeps {
     flex-direction: column;
     margin-left: 123px;
-  }
+  } */
 }
