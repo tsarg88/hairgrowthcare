@@ -22,7 +22,7 @@ section {
 }
 
 #homeContainer {
-  display: initial;
+  border-bottom: 1px solid lightgrey;
 }
 
 body {
@@ -93,11 +93,41 @@ iframe {
 @media only screen and (max-width: 720px) {
   body {
     max-width: 355px !important;
-    margin: 0;
+    overflow-x: hidden !important;
+    margin: 0 auto;
   }
 
   section {
-    border: none;
+    border-bottom: 1px solid lightgrey;
+  }
+
+  section div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 1em;
+  }
+
+  #homeContainer {
+    border-bottom: 1px solid lightgrey;
+  }
+
+  #solutionContainer {
+    height: 2500px;
+    border-bottom: 1px solid lightgrey;
+  }
+
+  #dermarollerContainer {
+    height: 994px;
+    border-bottom: 1px solid lightgrey;
+    transform: translateY(1200px);
+  }
+
+  #llltContainer {
+    height: 800px;
+    border-bottom: 1px solid lightgrey;
+    transform: translateY(1229px);
   }
 
   .adPlace {
@@ -106,10 +136,12 @@ iframe {
 
   iframe {
     width: 200px !important;
-    /* height: auto !important; */
   }
   .adPlace_keeps {
     flex-direction: row;
     margin-left: 0px;
+  }
+  .line {
+    border-bottom: 1px solid lightgrey;
   }
 }

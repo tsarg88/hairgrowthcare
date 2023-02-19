@@ -16,8 +16,10 @@ nav a:link {
 
 @media only screen and (max-width: 500px) {
   nav {
-    position: sticky;
-    /* z-index: 10; */
+    left: 0;
+    right: 0;
+    position: fixed;
+    z-index: 100000;
     top: 0;
     padding: 1.2em 0;
     color: black;

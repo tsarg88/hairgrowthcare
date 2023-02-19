@@ -12,6 +12,7 @@ export const Dermaroller = () => {
 
   return (
     <section ref={homeRef} id="dermarollerContainer">
+      <div className="line"></div>
       <div>
         <h3 id="h3">Dermaroller</h3>
         <body>
