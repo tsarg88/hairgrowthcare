@@ -13,6 +13,7 @@ export const Solutions = () => {
 
   return (
     <section ref={homeRef} id="solutionContainer">
+      <div className="solutionLine"></div>
       <div className="mainDiv">
         <h3 id="h3">Solutions</h3>
         <body>

@@ -3,7 +3,7 @@ footer {
   text-align: center;
   flex-wrap: wrap;
   justify-content: center;
-  transform: translateX(0px);
+  transform: translateY(1874px);
   height: 176px;
 }
 /* footer {
@@ -16,7 +16,11 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    transform: translateY(1300px);
+    transform: translateY(1835px);
+  }
+  .footerLine {
+    border-bottom: 1px solid lightgrey;
+    margin-top: 25px;
   }
 }
 /* #contactMe {

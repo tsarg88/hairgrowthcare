@@ -4,6 +4,7 @@ import { Route, Routes, Link } from "react-router-dom";
 
 export const Footer = () => (
   <footer>
+    <div className="footerLine"></div>
     <p>
       As an Amazon Associate I may earn from
       <br /> qualifying purchases

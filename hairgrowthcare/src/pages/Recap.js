@@ -1,6 +1,7 @@
 import React from "react";
 // import { useNav } from "../customHooks/useNav";
 import "./Page.css";
+import { Route, Routes, Link } from "react-router-dom";
 
 export const Recap = () => {
   // useNav takes in a navLinkId and returns a ref
@@ -12,8 +13,11 @@ export const Recap = () => {
 
   return (
     <section id="recapContainer">
+      <div className="recapLine"></div>
       <div className="mainDiv">
-        <h3 id="h3">Recap</h3>
+        <h3 id="h3" style={{ color: "red" }}>
+          Recap
+        </h3>
         <body>
           <p>
             In the end, I would like to once again emphasize that{" "}
@@ -85,7 +89,11 @@ export const Recap = () => {
 
           <p>
             Thanks again for visiting, if you have any questions, please use
-            this contact page!
+            this{" "}
+            <Link to="/contact" target="_blank">
+              <a> Contact</a>
+            </Link>{" "}
+            page!
           </p>
         </body>
       </div>

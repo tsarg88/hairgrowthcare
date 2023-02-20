@@ -141,25 +141,35 @@ iframe {
   }
 
   #homeContainer {
-    border-bottom: 1px solid lightgrey;
+    border-bottom: none;
   }
 
   #solutionContainer {
-    height: 2500px;
-    border-bottom: 1px solid lightgrey;
+    height: 2651px;
+    border-bottom: none;
   }
 
   #dermarollerContainer {
-    height: 994px;
-    border-bottom: 1px solid lightgrey;
-    transform: translateY(3000px);
+    height: 1974px;
+    border-bottom: none;
+    transform: translateY(3007px);
   }
 
   #llltContainer {
-    height: 800px;
-    border-bottom: 1px solid lightgrey;
-    transform: translateY(1229px);
+    height: 826px;
+    border-bottom: none;
+    transform: translateY(2766px);
   }
+
+  #recapContainer {
+    transform: translateY(2821px);
+    border-bottom: none;
+    height: 639px;
+  }
+
+  /* section {
+    border-bottom: none;
+  } */
 
   .adPlace {
     margin-left: 94px;
@@ -174,5 +184,18 @@ iframe {
   }
   .line {
     border-bottom: 1px solid lightgrey;
+    margin-top: 35px;
+  }
+  .solutionLine {
+    border-bottom: 1px solid lightgrey;
+    margin-top: -60px;
+  }
+  .llltLine {
+    border-bottom: 1px solid lightgrey;
+    margin-top: -40px;
+  }
+  .recapLine {
+    border-bottom: 1px solid lightgrey;
+    margin-top: 25px;
   }
 }

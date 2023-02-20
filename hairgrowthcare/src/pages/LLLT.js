@@ -12,6 +12,7 @@ export const Lllt = () => {
 
   return (
     <section ref={homeRef} id="llltContainer">
+      <div className="llltLine"></div>
       <div className="mainDiv">
         <h3 id="h3">LLLT</h3>
         <body>
