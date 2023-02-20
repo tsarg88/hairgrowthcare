@@ -15,7 +15,7 @@ body {
 }
 
 .testDiv {
-  height: 8172px;
+  height: 6239px;
 }
 
 .icon {
@@ -33,6 +33,10 @@ body {
     position: fixed;
     right: 320px;
     top: 7%;
+  }
+
+  .testDiv {
+    height: 8172px;
   }
 
   /* .appContainer {
