@@ -3,6 +3,8 @@ footer {
   text-align: center;
   flex-wrap: wrap;
   justify-content: center;
+  transform: translateX(0px);
+  height: 176px;
 }
 /* footer {
   display: flex;

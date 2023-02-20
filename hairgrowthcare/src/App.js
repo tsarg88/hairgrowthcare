@@ -20,7 +20,7 @@ function App() {
             exact
             path="/"
             element={
-              <div>
+              <div className="testDiv">
                 <Link to="/contact" target="_blank">
                   <div className="icon">
                     {" "}

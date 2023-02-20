@@ -13,7 +13,7 @@ export const Solutions = () => {
 
   return (
     <section ref={homeRef} id="solutionContainer">
-      <div>
+      <div className="mainDiv">
         <h3 id="h3">Solutions</h3>
         <body>
           <p>
@@ -211,6 +211,92 @@ export const Solutions = () => {
               src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B0994YMK1Z&asins=B0994YMK1Z&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
             ></iframe>
              
+          </div>
+          <p>
+            The next Shampoo that I recommend using 2-3 times per week is{" "}
+            <a
+              href="https://www.amazon.com/Nizoral-Anti-Dandruff-Shampoo-Ketoconazole-Dandruff/dp/B00AINMFAC"
+              target="_blank"
+            >
+              Nizoral
+            </a>{" "}
+            which contains <strong>Ketoconazole</strong> -- in addition to being
+            the best cure for fighting dandruff, has been proven to be also very
+            good at hair loss. In particular, as the study concludes, it showed
+            great results in clinical trials with patients{" "}
+            <strong>combining</strong> Ketoconazole shampoo with their
+            minoxidil regimen; you can see that study here:{" "}
+            <a
+              href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3262531/"
+              target="_blank"
+            >
+               https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3262531/
+            </a>
+            That is why I definitely recommend using Nizoral shampoo 2-3 times
+            per week together with Keeps! I would suggest always using Keeps
+            Conditioner after each shampoo(including after Nizoral).
+          </p>
+           {" "}
+          <div className="adPlace">
+            <iframe
+              style={{ width: "500px", height: "500px" }}
+              marginwidth="0"
+              marginheight="0"
+              scrolling="no"
+              frameborder="0"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B00AINMFAC&asins=B00AINMFAC&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+            ></iframe>
+          </div>
+          <p>
+            And lastly, I also use and recommend one more Shampoo; I keep it in
+            my backpack when I am out in the pool/sauna; usually, once per week.
+            The{" "}
+            <a href="https://www.amazon.com/dp/B00O4XZYLO" target="_blank">
+              Alpecin Shampoo{" "}
+            </a>
+            -- promotes natural hair growth! It is probably the best Shampoo
+            with <strong>caffeine</strong>, and after using it you will
+            certainly appreciate its <strong>quality!</strong>
+          </p>
+          <div className="adPlace">
+            <iframe
+              style={{ width: "500px", height: "500px" }}
+              marginwidth="0"
+              marginheight="0"
+              scrolling="no"
+              frameborder="0"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B00O4XZYLO&asins=B00O4XZYLO&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+            ></iframe>
+          </div>
+          <p>
+            The last product that I am recommending in this 
+            <span style={{ color: "blue" }}>Solutions</span> section is the --{" "}
+            <a
+              href="https://www.amazon.com/Keeps-Thickening-Matte-Pomade-Medium/dp/B09WDXPZY1"
+              target="_blank"
+            >
+              Keeps Matte Thickening Hair Pomade for Men
+            </a>{" "}
+            The important thing about this hair styling pomade is that in
+            addition to giving a style to hair when applied -- it has the same
+            key ingredients(that shampoo and conditioner have): saw
+            palmetto(natural DHT-blocker), biotin(promotes keratin production),
+            green tea(improves hair quality), and caffeine(stimulates hair
+            follicles).    And that means that each time you style your hair, in{" "}
+            <strong>addition</strong> to styling, you also{" "}
+            <strong>contribute</strong> to the hair growth/regrowth regimen with
+            those natural and healthy ingredients you add one more --{" "}
+            <strong>a healthy alternative</strong> to Finasteride!
+          </p>
+          <div className="adPlace">
+            <iframe
+              style={{ width: "500px", height: "500px" }}
+              marginwidth="0"
+              marginheight="0"
+              scrolling="no"
+              frameborder="0"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B09WDXPZY1&asins=B09WDXPZY1&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+            ></iframe>
           </div>
         </body>
       </div>

@@ -14,7 +14,12 @@ body {
   padding: 0;
 }
 
+.testDiv {
+  height: 8172px;
+}
+
 .icon {
+  z-index: 2;
   position: fixed;
   right: 400px;
   top: 8%;

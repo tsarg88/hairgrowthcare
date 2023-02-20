@@ -12,7 +12,7 @@ export const Home = () => {
 
   return (
     <section ref={homeRef} id="homeContainer">
-      <div>
+      <div className="mainDiv">
         <h3 id="h3">HOME</h3>
         <body>
           <p>

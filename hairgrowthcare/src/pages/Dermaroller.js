@@ -13,46 +13,86 @@ export const Dermaroller = () => {
   return (
     <section ref={homeRef} id="dermarollerContainer">
       <div className="line"></div>
-      <div>
+      <div className="mainDiv">
         <h3 id="h3">Dermaroller</h3>
         <body>
-          <p>This is the Dermaroller section</p>
           <p>
-            One of the first things that we usually turn to when we notice hair
-            loss is solutions, which could be topical, foam, or pills. When I
-            first started noticing hair loss about 10 years ago, I didn't know
-            much about treatments and there weren't many options available. The
-            most popular option was to stick with Rogaine, whose main
-            ingredient, minoxidil, is responsible for stopping hair loss and
-            promoting regrowth.{" "}
+            Using the Dermaroller(also known as a micro-needling device) for
+            hair treatment is something that I wish I had known earlier!
+          </p>
+             
+          <p>
+            A Dermaroller(collagen induction therapy (CIT), also known as
+            micro-needling) is basically a tool with a{" "}
+            <strong>roller and micro-needles</strong> that you will need to run
+            the roller across the scalp.
+          </p>
+               
+          <p>
+            Study shows that combining derma rolling with minoxidil has more
+            than 50% improvement versus only using minoxidil! You can see that
+            study here:{" "}
+            <a
+              href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/"
+              target="_blank"
+            >
+              https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/
+            </a>
           </p>
           <p>
-            However, I soon learned that there are different dosages of
-            minoxidil, including 2%, 5%, and 15%, and that Rogaine mostly only
-            works at the vertex. After some research, I found that 5% minoxidil
-            is actually better than 10% and 15%.{" "}
+            I use <strong>0.5mm</strong> Dermaroller about 2 times per week. I
+            do not recommend using needles more than 0.5mm because it will
+            increase the risk of injury during application. Also, after research
+            and personal trial, I've set a break of ~2-3 days after each
+            application; which gives the necessary time for the scalp to recover
+            and induce collagen for the growth of new hair.After using
+            the Dermaroller I apply minoxidil which in addition to better
+            absorption after derma rolling also gives relief to the scalp.I use{" "}
+            <a
+              href="https://www.amazon.com/Derma-Roller-Titanium-Regrowth-Growth/dp/B07VR4NKQG"
+              target="_blank"
+            >
+              Alphaluxy Dermaroller.
+            </a>{" "}
+            One of the important things about Dermaroller is the number of
+            needles and the material; this one has 540 needles(compared two an
+            average of 200) and the needles are made of titanium material.
           </p>
+          <div className="adPlace">
+            <iframe
+              style={{ width: "500px", height: "500px" }}
+              marginwidth="0"
+              marginheight="0"
+              scrolling="no"
+              frameborder="0"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B07VR4NKQG&asins=B07VR4NKQG&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+            ></iframe>
+          </div>
           <p>
-            Overall, Rogaine is a good choice, and I would highly recommend
-            using Extra Strength 5%. However, I also recommend using Keeps for
-            several reasons. First, there are now other options available
-            besides minoxidil. Second, Keeps has a great bundle available that
-            includes not just minoxidil, but also a very good Shampoo and
-            Conditioner specifically designed to stop hair loss and promote
-            healthy hair growth.{" "}
+            Another Dermaroller that I recommend is{" "}
+            <a
+              href="https://www.amazon.com/Microneedling-Derma-Roller-Dr-Pen-Dermaroller/dp/B0B8F126C3"
+              target="_blank"
+            >
+              Dr.Pen
+            </a>{" "}
+            it has way few needles(128); however, the brand is very{" "}
+            <strong>established</strong> in this field and the quality is very{" "}
+            <strong>good!</strong>
           </p>
-          <p>
-            That's why I recommend Keeps, because you can buy, besides Extra
-            Strength 5% minoxidil, a good Shampoo and Conditioner to help stop
-            hair loss and promote healthy hair growth.{" "}
-          </p>
+           
+          <div className="adPlace">
+            <iframe
+              style={{ width: "500px", height: "500px" }}
+              marginwidth="0"
+              marginheight="0"
+              scrolling="no"
+              frameborder="0"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B0B8F126C3&asins=B0B8F126C3&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+            ></iframe>
+          </div>
+             
         </body>
-      </div>
-      <div id="adPlace">
-        {/* <img
-          src="https://source.unsplash.com/random/600x600/?nature,water"
-          alt="unsplash-img"
-        /> */}
       </div>
     </section>
   );

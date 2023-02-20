@@ -14,6 +14,10 @@ body {
   background-color: aliceblue;
 }
 
+/* .appContainer {
+  height: auto;
+} */
+
 section {
   align-items: center;
   justify-content: center;
@@ -22,6 +26,10 @@ section {
 }
 
 #homeContainer {
+  border-bottom: 1px solid lightgrey;
+}
+
+.line {
   border-bottom: 1px solid lightgrey;
 }
 
@@ -90,6 +98,29 @@ iframe {
   height: 326px !important;
 }
 
+#solutionContainer {
+  transform: translateY(18px);
+  border-bottom: 1px solid lightgrey;
+  height: 3000px;
+}
+
+#dermarollerContainer {
+  transform: translateY(1475px);
+  border-bottom: 1px solid lightgrey;
+  height: 1445px;
+}
+#llltContainer {
+  transform: translateY(1493px);
+  border-bottom: 1px solid lightgrey;
+  height: 1125px;
+}
+
+#recapContainer {
+  transform: translateY(1084px);
+  border-bottom: 1px solid lightgrey;
+  height: 639px;
+}
+
 @media only screen and (max-width: 720px) {
   body {
     max-width: 355px !important;
@@ -121,7 +152,7 @@ iframe {
   #dermarollerContainer {
     height: 994px;
     border-bottom: 1px solid lightgrey;
-    transform: translateY(1200px);
+    transform: translateY(3000px);
   }
 
   #llltContainer {
