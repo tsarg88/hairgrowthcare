@@ -33,6 +33,10 @@ section {
   border-bottom: 1px solid lightgrey;
 }
 
+.icon_mobile {
+  display: none;
+}
+
 .dermaroller_line {
   border-bottom: 1px solid lightgrey;
 }

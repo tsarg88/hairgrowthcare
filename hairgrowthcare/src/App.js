@@ -8,6 +8,7 @@ import { Footer } from "./Footer/Footer";
 import "./App.css";
 import Confirmation from "./pages/Confirmation";
 import ContactIcon from "./images/contact.png";
+import ContactIconMobile from "./images/contact_mobile.png";
 
 import { FaBeer } from "react-icons/fa";
 
@@ -25,6 +26,10 @@ function App() {
                   <div className="icon">
                     {" "}
                     <img src={ContactIcon} />{" "}
+                  </div>
+                  <div className="icon_mobile">
+                    {" "}
+                    <img src={ContactIconMobile} />{" "}
                   </div>
                 </Link>
 
