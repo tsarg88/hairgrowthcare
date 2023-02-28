@@ -29,7 +29,7 @@ export const Solutions = () => {
             not know much about treatments and on top of that, at that time
             there were not many options available as it is NOW. The most
             “popular” option back then was to “stick” with the{" "}
-            <a href="https://www.amazon.com/dp/B0000Y8H3S" target="_blank">
+            <a href="https://amzn.to/3ZsL7bw" target="_blank">
               Rogaine
             </a>{" "}
             brand. The main ingredient responsible to stop hair loss and regrow
@@ -46,23 +46,17 @@ export const Solutions = () => {
           <p>
             Also, as now there are available much <strong>more</strong> brands
             that offer the same minoxidil(
-            <a
-              href="https://www.amazon.com/Keeps-Minoxidil-Topical-Solution-bottles/dp/B099HVJRZ1"
-              target="_blank"
-            >
+            <a href="https://amzn.to/3IX1F6i" target="_blank">
               {" "}
               Keeps
             </a>
             ,{" "}
-            <a
-              href="https://www.amazon.com/Strength-Regrowth-Treatment-Minoxidil-Unscented/dp/B09H3R8Y7P"
-              target="_blank"
-            >
+            <a href="https://amzn.to/3L0llrt" target="_blank">
               Hims
             </a>
             , etc.), it became obvious, that basically, the only real difference
             is the <strong>price!</strong> That is why I am recommending 
-            <a href="https://www.amazon.com/dp/B008BMOEGA" target="_blank">
+            <a href="https://amzn.to/3Z7VH8g" target="_blank">
               Kirkland!
             </a>
              Because, it has the same main ingredients including of course
@@ -72,23 +66,24 @@ export const Solutions = () => {
             </a>
             (and other brands have) has — but it is much more cheaper! As of
             writing this: 3 months supply of{" "}
-            <a href="https://www.amazon.com/dp/B0000Y8H3S" target="_blank">
+            <a href="https://amzn.to/3ZsL7bw" target="_blank">
               Rogaine
             </a>{" "}
             solution costs $42.72 whereas 6 months of Kirkland's costs only $30;
             so that is why for the minoxidil part of my recommendations, I
             recommend using — 
-            <a href="https://www.amazon.com/dp/B008BMOEGA" target="_blank">
+            <a href="https://amzn.to/3Z7VH8g" target="_blank">
               Kirkland Minoxidil 5% Extra Strength
             </a>
             <div className="adPlace">
               <iframe
-                style={{ width: "500px", height: "500px" }}
-                marginwidth="0"
-                marginheight="0"
+                sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
+                style={{ width: 120, height: 240 }}
+                marginWidth={0}
+                marginHeight={0}
                 scrolling="no"
-                frameborder="0"
-                src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B008BMOEGA&asins=B008BMOEGA&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+                frameBorder={0}
+                src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B008BMOEGA&asins=B008BMOEGA&linkId=a197820222ca1aecf5b13906c409a111&show_border=true&link_opens_in_new_window=true"
               ></iframe>
             </div>
           </p>
@@ -131,10 +126,7 @@ export const Solutions = () => {
             Then I started to look for finasteride <strong>alternatives</strong>
             ; or in particular -- healthy/organic/natural ways to block the DHT.
             This led me to find{" "}
-            <a
-              href="https://www.amazon.com/Hair-Developed-Dermatologists-Experience-Healthier/dp/B07CRNLRPQ"
-              target="_blank"
-            >
+            <a href="https://amzn.to/3y4tp2l" target="_blank">
               Shapiro MD Leave-In Daily Foam
             </a>
             . It has DHT Fighting Vegan Formula which consists of{" "}
@@ -142,22 +134,20 @@ export const Solutions = () => {
             and caffeine. I apply it 3-4 times per week between my daily
             minoxidil applications. My first recommendation on{" "}
             <strong>DHT blocking</strong> is using 
-            <a
-              href="https://www.amazon.com/Hair-Developed-Dermatologists-Experience-Healthier/dp/B07CRNLRPQ"
-              target="_blank"
-            >
+            <a href="https://amzn.to/3y4tp2l" target="_blank">
               Shapiro MD Leave-In Daily Foam
             </a>
              as an alternative to -- <strong>Finasteride</strong> -- that have
             side effects, most notably -- sexual!
             <div className="adPlace">
               <iframe
-                style={{ width: "500px", height: "500px" }}
-                marginwidth="0"
-                marginheight="0"
+                sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
+                style={{ width: "120px", height: "240px" }}
+                marginWidth="0"
+                marginHeight="0"
                 scrolling="no"
-                frameborder="0"
-                src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B07CRNLRPQ&asins=B07CRNLRPQ&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+                frameBorder="0"
+                src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B07CRNLRPQ&asins=B07CRNLRPQ&linkId=fdeb0f58d99249a1a54b702e89665c06&show_border=true&link_opens_in_new_window=true"
               ></iframe>
             </div>
           </p>
@@ -170,14 +160,11 @@ export const Solutions = () => {
           </p>
           <p>
             I recommend using{" "}
-            <a
-              href="https://www.amazon.com/Keeps-Thickening-Shampoo-Thicker-Looking/dp/B0994WXS42"
-              target="_blank"
-            >
+            <a href="https://amzn.to/3mbkObH" target="_blank">
               Keeps Shampoo
             </a>{" "}
             and{" "}
-            <a href="https://www.amazon.com/dp/B0994YMK1Z" target="_blank">
+            <a href="https://amzn.to/3ICE2OV" target="_blank">
               Conditioner
             </a>{" "}
             because they both contain 4 key <strong>natural</strong>{" "}
@@ -185,7 +172,7 @@ export const Solutions = () => {
             keratin production), green tea(improves hair quality), and
             caffeine(stimulates hair follicles). The first thing that you will
             notice when using 
-            <a href="https://www.amazon.com/dp/B0994YMK1Z" target="_blank">
+            <a href="https://amzn.to/3ICE2OV" target="_blank">
               Keeps Conditioner
             </a>{" "}
             is a very distinct/cool green tea smell -- which I do really like!
@@ -197,29 +184,28 @@ export const Solutions = () => {
           </p>
           <div className="adPlace_keeps">
             <iframe
-              style={{ width: "500px", height: "500px" }}
-              marginwidth="0"
-              marginheight="0"
+              sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
+              style={{ width: "120px", height: "240px" }}
+              marginWidth="0"
+              marginHeight="0"
               scrolling="no"
-              frameborder="0"
-              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B0994WXS42&asins=B0994WXS42&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+              frameBorder="0"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B0994WXS42&asins=B0994WXS42&linkId=74035aee259aa524141fbdba79eb497c&show_border=true&link_opens_in_new_window=true"
             ></iframe>
             <iframe
-              style={{ width: "500px", height: "500px" }}
-              marginwidth="0"
-              marginheight="0"
+              sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
+              style={{ width: "120px", height: "240px" }}
+              marginWidth="0"
+              marginHeight="0"
               scrolling="no"
-              frameborder="0"
-              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B0994YMK1Z&asins=B0994YMK1Z&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+              frameBorder="0"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B0994YMK1Z&asins=B0994YMK1Z&linkId=ce76e691d52a98146ed4e76320e26c2e&show_border=true&link_opens_in_new_window=true"
             ></iframe>
              
           </div>
           <p>
             The next Shampoo that I recommend using 2-3 times per week is{" "}
-            <a
-              href="https://www.amazon.com/Nizoral-Anti-Dandruff-Shampoo-Ketoconazole-Dandruff/dp/B00AINMFAC"
-              target="_blank"
-            >
+            <a href="https://amzn.to/3kvIyqo" target="_blank">
               Nizoral
             </a>{" "}
             which contains <strong>Ketoconazole</strong> -- in addition to being
@@ -241,19 +227,20 @@ export const Solutions = () => {
            {" "}
           <div className="adPlace">
             <iframe
-              style={{ width: "500px", height: "500px" }}
-              marginwidth="0"
-              marginheight="0"
+              sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
+              style={{ width: "120px", height: "240px" }}
+              marginWidth="0"
+              marginHeight="0"
               scrolling="no"
-              frameborder="0"
-              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B00AINMFAC&asins=B00AINMFAC&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+              frameBorder="0"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B00AINMFAC&asins=B00AINMFAC&linkId=7d619e30801658c42f949ed1fdd42ea6&show_border=true&link_opens_in_new_window=true"
             ></iframe>
           </div>
           <p>
             And lastly, I also use and recommend one more Shampoo; I keep it in
             my backpack when I am out in the pool/sauna; usually, once per week.
             The{" "}
-            <a href="https://www.amazon.com/dp/B00O4XZYLO" target="_blank">
+            <a href="https://amzn.to/3KJCZj0" target="_blank">
               Alpecin Shampoo{" "}
             </a>
             -- promotes natural hair growth! It is probably the best Shampoo
@@ -262,21 +249,19 @@ export const Solutions = () => {
           </p>
           <div className="adPlace">
             <iframe
-              style={{ width: "500px", height: "500px" }}
-              marginwidth="0"
-              marginheight="0"
+              sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
+              style={{ width: "120px", height: "240px" }}
+              marginWidth="0"
+              marginHeight="0"
               scrolling="no"
-              frameborder="0"
-              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B00O4XZYLO&asins=B00O4XZYLO&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+              frameBorder="0"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B00O4XZYLO&asins=B00O4XZYLO&linkId=7a9dd48ba9bdad8ea6eed024d447a907&show_border=true&link_opens_in_new_window=true"
             ></iframe>
           </div>
           <p>
             The last product that I am recommending in this 
             <span style={{ color: "blue" }}>Solutions</span> section is the --{" "}
-            <a
-              href="https://www.amazon.com/Keeps-Thickening-Matte-Pomade-Medium/dp/B09WDXPZY1"
-              target="_blank"
-            >
+            <a href="https://amzn.to/3ZjwiZ6" target="_blank">
               Keeps Matte Thickening Hair Pomade for Men
             </a>{" "}
             The important thing about this hair styling pomade is that in
@@ -292,12 +277,13 @@ export const Solutions = () => {
           </p>
           <div className="adPlace">
             <iframe
-              style={{ width: "500px", height: "500px" }}
+              sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
+              style={{ width: 120, height: 240 }}
               marginwidth="0"
               marginheight="0"
               scrolling="no"
               frameborder="0"
-              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B09WDXPZY1&asins=B09WDXPZY1&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B09WDXPZY1&asins=B09WDXPZY1&linkId=8042d4850568304f1fa255cb242510eb&show_border=true&link_opens_in_new_window=true"
             ></iframe>
           </div>
         </body>

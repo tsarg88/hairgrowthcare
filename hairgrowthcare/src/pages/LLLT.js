@@ -27,10 +27,7 @@ export const Lllt = () => {
             <strong>stimulating</strong> hair follicles to promote hair growth
             and prevent hair loss. And that is exactly the main reason that I
             have chosen --{" "}
-            <a
-              href="https://www.amazon.com/Hair-Growth-Laser-Cap-Red-Light-Therapy/dp/B07M5X4D3P"
-              target="_blank"
-            >
+            <a href="https://amzn.to/3EGM2x2" target="_blank">
               iRestore Professional 282Laser Hair Growth System.
             </a>
           </p>{" "}
@@ -42,12 +39,13 @@ export const Lllt = () => {
           </p>
           <div className="adPlace">
             <iframe
-              style={{ width: "500px", height: "500px" }}
+              sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
+              style={{ width: "120px", height: "240px" }}
               marginwidth="0"
               marginheight="0"
               scrolling="no"
               frameborder="0"
-              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B07M5X4D3P&asins=B07M5X4D3P&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B07M5X4D3P&asins=B07M5X4D3P&linkId=84f65c24bcd6871106c9a5125d6c9b66&show_border=true&link_opens_in_new_window=true"
             ></iframe>
           </div>
         </body>

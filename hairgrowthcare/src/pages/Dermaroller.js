@@ -49,10 +49,7 @@ export const Dermaroller = () => {
             the Dermaroller I apply minoxidil which in addition to better
             absorption after derma rolling also gives relief to the scalp. The
             first Dermaroller that I use is{" "}
-            <a
-              href="https://www.amazon.com/Derma-Roller-Titanium-Regrowth-Growth/dp/B07VR4NKQG"
-              target="_blank"
-            >
+            <a href="https://amzn.to/3y1gyy9" target="_blank">
               Alphaluxy Dermaroller.
             </a>{" "}
             One of the important things about Dermaroller is the number of
@@ -61,20 +58,18 @@ export const Dermaroller = () => {
           </p>
           <div className="adPlace">
             <iframe
-              style={{ width: "500px", height: "500px" }}
-              marginwidth="0"
-              marginheight="0"
+              sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
+              style={{ width: "120px", height: "240px" }}
+              marginWidth="0"
+              marginHeight="0"
               scrolling="no"
-              frameborder="0"
-              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B07VR4NKQG&asins=B07VR4NKQG&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+              frameBorder="0"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B07VR4NKQG&asins=B07VR4NKQG&linkId=3ec1857399a7e62cce110bd0e0dcf61c&show_border=true&link_opens_in_new_window=true"
             ></iframe>
           </div>
           <p>
             Another Dermaroller that I use and recommend is{" "}
-            <a
-              href="https://www.amazon.com/Microneedling-Derma-Roller-Dr-Pen-Dermaroller/dp/B0B8F126C3"
-              target="_blank"
-            >
+            <a href="https://amzn.to/3kyOgYK" target="_blank">
               Dr.Pen
             </a>{" "}
             It has way few needles(128); however, it has great titanium coating
@@ -85,12 +80,13 @@ export const Dermaroller = () => {
            
           <div className="adPlace">
             <iframe
-              style={{ width: "500px", height: "500px" }}
-              marginwidth="0"
-              marginheight="0"
+              sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
+              style={{ width: "120px", height: "240px" }}
+              marginWidth="0"
+              marginHeight="0"
               scrolling="no"
-              frameborder="0"
-              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B0B8F126C3&asins=B0B8F126C3&linkId=2747db84071ed549b5d81ff7076af287&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"
+              frameBorder="0"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B09BVSFFF1&asins=B09BVSFFF1&linkId=bcdd59937c7f48f7630fe56da02fd7bb&show_border=true&link_opens_in_new_window=true"
             ></iframe>
           </div>
              
