@@ -14,16 +14,16 @@ export const Recap = () => {
   return (
     <section id="recapContainer">
       <div className="recapLine"></div>
-      <div className="mainDiv">
-        <h3 id="h3" style={{ color: "red" }}>
-          Recap
+      <div className="mainDiv_recap">
+        <h3 id="h3_recap" style={{ color: "red" }}>
+          RECAP
         </h3>
         <body>
           <p>
             In the end, I would like to once again emphasize that{" "}
             <strong>combining</strong> multiple approaches into a{" "}
             <strong>regimen</strong> is better than just sticking with one
-            solution, especially since there are really a lot of options out
+            solution; especially, since there are really a lot of options out
             there nowadays.
           </p>
 
@@ -58,7 +58,7 @@ export const Recap = () => {
               href="https://www.amazon.com/Hair-Developed-Dermatologists-Experience-Healthier/dp/B07CRNLRPQ"
               target="_blank"
             >
-              Shapiro MD Leave-In Daily Foam;
+              Shapiro MD Leave-In Daily Foam<strong>;</strong>
             </a>{" "}
             <br></br>3 times (or every other day) per week use{" "}
             <a
@@ -78,6 +78,14 @@ export const Recap = () => {
             >
               Alphaluxy Dermaroller
             </a>{" "}
+            or{" "}
+            <a
+              href="https://www.amazon.com/Microneedling-Derma-Roller-Dr-Pen-Dermaroller/dp/B0B8F126C3"
+              target="_blank"
+            >
+              {" "}
+              Dr.Pen
+            </a>
             (run the roller across the scalp in multiple directions:
             horizontally, vertically, and diagonally for about ~2-3 minutes);
             <br></br>
@@ -88,8 +96,10 @@ export const Recap = () => {
           </p>
 
           <p>
-            Thanks again for visiting, if you have any questions, please use
-            this{" "}
+            Thanks again for visiting! I do really hope that my recommendations
+            will help you to <strong>stop</strong> hair loss and{" "}
+            <strong>regrow!</strong> if you have any question/concerns, please
+            use this{" "}
             <Link to="/contact" target="_blank">
               <a> Contact</a>
             </Link>{" "}

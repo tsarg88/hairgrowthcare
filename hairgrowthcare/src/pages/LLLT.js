@@ -14,7 +14,7 @@ export const Lllt = () => {
     <section ref={homeRef} id="llltContainer">
       <div className="llltLine"></div>
       <div className="mainDiv">
-        <h3 id="h3">LLLT</h3>
+        <h3 id="h3_lllt">LLLT</h3>
         <body>
           <p>
             Using(and combining with other treatments) LLLT(
@@ -37,8 +37,8 @@ export const Lllt = () => {
           <p>
             They have very good customer service; you can simply contact them
             even <strong>after</strong> 6 months of the initial guarantee
-            period(if you're not happy with the result), and they will offer to
-            extend the warranty or price reduction!
+            period(if you're not happy with the result), and they will offer to:
+            extend the warranty, price reduction or refund!
           </p>
           <div className="adPlace">
             <iframe

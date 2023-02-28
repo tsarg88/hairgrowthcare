@@ -13,7 +13,7 @@ export const Home = () => {
   return (
     <section ref={homeRef} id="homeContainer">
       <div className="mainDiv">
-        <h3 id="h3">HOME</h3>
+        <h3 id="h3_home">HOME</h3>
         <body>
           <p>
             Hello, thanks for visiting{" "}
@@ -25,23 +25,23 @@ export const Home = () => {
             effectively fight hair loss and regrow!
           </p>
           <p>
-            Mainly, the content of this site is dedicated to male pattern hair
-            loss, but some of the products that I am reviewing and recommending
-            can be also used by women.
+            Mainly, the content of this site is dedicated to{" "}
+            <strong>male pattern hair loss</strong>, but some of the products
+            that I am reviewing and recommending can be also used by women.
           </p>
           <p>
             I am also struggling with this issue and have already tried a lot of
-            things, I think, I have gained enough experience and knowledge to
-            share my recommendations which I hope you will use them to fight
-            hair loss and regrow!
+            things; I think, I have gained enough experience and knowledge to
+            share my <strong>recommendations</strong> which I hope you will find
+            them useful -- to stop hair loss and regrow!
           </p>
           <p>
-            Also, I would like to note that I do NOT want and AGAINST hair
-            transplant surgery, here are just a few reasons: painful procedure;
-            leaves permanent scars; planted hair does not really grow and fall.
+            I would like to note that I do NOT want and AGAINST hair transplant
+            surgery; here are just a few reasons: painful procedure; leaves
+            permanent scars; planted hair does not really grow and fall.
           </p>
           <p>
-            However I have some optimistic hope to PRP(platelet-rich plasma)
+            However, I have some optimistic hope to PRP(platelet-rich plasma)
             treatment(taking plasma from your blood and injecting it into your
             scalp to stimulate hair growth) and I hope that they will improve in
             the future with more concrete results to showcase before trying it!

@@ -15,7 +15,7 @@ export const Solutions = () => {
     <section ref={homeRef} id="solutionContainer">
       <div className="solutionLine"></div>
       <div className="mainDiv">
-        <h3 id="h3">Solutions</h3>
+        <h3 id="h3_solutions">Solutions</h3>
         <body>
           <p>
             One of the first things that usually we turn into when we notice
@@ -60,7 +60,7 @@ export const Solutions = () => {
             >
               Hims
             </a>
-            , etc), it became obvious, that basically, the only real difference
+            , etc.), it became obvious, that basically, the only real difference
             is the <strong>price!</strong> That is why I am recommending 
             <a href="https://www.amazon.com/dp/B008BMOEGA" target="_blank">
               Kirkland!
@@ -95,30 +95,31 @@ export const Solutions = () => {
           <p>
             I heard about Finasteride as a hair loss treatment relatively
             recently; about ~2 years ago. It was first used to treat benign
-            prostatic hyperplasia in men; however, relatively recently it is
-            being produced as a medication to treat hair loss as well.
+            prostatic hyperplasia in men; however, it is now being produced as
+            a medication to treat hair loss as well.
           </p>
           <p>
             As they were offering it as a prescription pill -- I was "at once"
             against it; because among other reasons: taking a pill
             can potentially increase <strong>side effects</strong>, especially
-            compared to topical or foam alternatives.
+            compared to topical or foam <strong>alternatives.</strong>
           </p>
           <p>
             But about 6 months ago, I noticed that a lot of brands have started
             offering topical Finasteride as an alternative to pills. I started
-            doing quick research and learned that the main side effect is
-            sexual; which is caused by decreasing DHT(the main sexual hormone of
-            males) levels by Finasteride. But after reading reviews, I got
-            "convinced" that topical in comparison to pills have lower side
-            effects rates. So I've decided to give it a try. I have signed up
-            for a subscription plan and got approved for the prescription of
-            topical finasteride with 0.3% concentration. However, after just
-            using it for about a month, I noticed sexual side effects; in
-            particular, I was having acute pain during orgasm. I
-            immediately canceled my subscription and stopped using Finasteride!
-            Fortunately for me, the sides ended within a week after
-            stopping applying topical FInasteride!{" "}
+            doing quick research and learned that the main{" "}
+            <strong>side effect is sexual;</strong> which is caused by
+            decreasing DHT(the main sexual hormone of males) levels by
+            Finasteride. But after reading reviews, I got "convinced" that
+            topical in comparison to pills has lower side effects rates. So I've
+            decided to give it a try. I have signed up for a subscription plan
+            and got approved for the prescription of topical finasteride with
+            0.3% concentration. However, after just using it for about a month,
+            I noticed sexual side effects; in particular, I was having acute
+            pain during orgasm. I <strong>immediately canceled</strong> my
+            subscription and stopped using Finasteride! Fortunately for me, the
+            sides ended within a week after stopping applying topical
+            FInasteride!{" "}
           </p>
           <p>
             And then after doing proper research, I have learned that blocking
@@ -182,7 +183,7 @@ export const Solutions = () => {
             because they both contain 4 key <strong>natural</strong>{" "}
             ingredients: saw palmetto(natural DHT-blocker), biotin(promotes
             keratin production), green tea(improves hair quality), and
-            caffeine(stimulates hair follicles).The first thing that you will
+            caffeine(stimulates hair follicles). The first thing that you will
             notice when using 
             <a href="https://www.amazon.com/dp/B0994YMK1Z" target="_blank">
               Keeps Conditioner
@@ -283,7 +284,7 @@ export const Solutions = () => {
             key ingredients(that shampoo and conditioner have): saw
             palmetto(natural DHT-blocker), biotin(promotes keratin production),
             green tea(improves hair quality), and caffeine(stimulates hair
-            follicles).    And that means that each time you style your hair, in{" "}
+            follicles). That means each time you style your hair, in{" "}
             <strong>addition</strong> to styling, you also{" "}
             <strong>contribute</strong> to the hair growth/regrowth regimen with
             those natural and healthy ingredients you add one more --{" "}

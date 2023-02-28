@@ -12,9 +12,9 @@ export const Dermaroller = () => {
 
   return (
     <section ref={homeRef} id="dermarollerContainer">
-      <div className="line"></div>
+      <div className="dermaroller_line"></div>
       <div className="mainDiv">
-        <h3 id="h3">Dermaroller</h3>
+        <h3 id="h3_dermaroller">Dermaroller</h3>
         <body>
           <p>
             Using the Dermaroller(also known as a micro-needling device) for
@@ -45,9 +45,10 @@ export const Dermaroller = () => {
             increase the risk of injury during application. Also, after research
             and personal trial, I've set a break of ~2-3 days after each
             application; which gives the necessary time for the scalp to recover
-            and induce collagen for the growth of new hair.After using
+            and induce collagen for the growth of new hair. After using
             the Dermaroller I apply minoxidil which in addition to better
-            absorption after derma rolling also gives relief to the scalp.I use{" "}
+            absorption after derma rolling also gives relief to the scalp. The
+            first Dermaroller that I use is{" "}
             <a
               href="https://www.amazon.com/Derma-Roller-Titanium-Regrowth-Growth/dp/B07VR4NKQG"
               target="_blank"
@@ -69,16 +70,17 @@ export const Dermaroller = () => {
             ></iframe>
           </div>
           <p>
-            Another Dermaroller that I recommend is{" "}
+            Another Dermaroller that I use and recommend is{" "}
             <a
               href="https://www.amazon.com/Microneedling-Derma-Roller-Dr-Pen-Dermaroller/dp/B0B8F126C3"
               target="_blank"
             >
               Dr.Pen
             </a>{" "}
-            it has way few needles(128); however, the brand is very{" "}
-            <strong>established</strong> in this field and the quality is very{" "}
-            <strong>good!</strong>
+            It has way few needles(128); however, it has great titanium coating
+            needles compared to other Dermaroller's needles and the brand is --
+            very <strong>established</strong> in this field; that is why its
+            quality is very <strong>good!</strong>
           </p>
            
           <div className="adPlace">

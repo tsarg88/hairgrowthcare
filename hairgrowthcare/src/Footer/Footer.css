@@ -1,5 +1,6 @@
 footer {
   /* display: flex; */
+  margin-top: -1701px;
   text-align: center;
   flex-wrap: wrap;
   justify-content: center;
@@ -16,12 +17,17 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    transform: translateY(1835px);
+    transform: translateY(3599px);
+    height: 181px;
   }
   .footerLine {
     border-bottom: 1px solid lightgrey;
     margin-top: 25px;
   }
+
+  /* body {
+    margin-top: 12px;
+  } */
 }
 /* #contactMe {
   display: none;
