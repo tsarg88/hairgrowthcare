@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { db } from "../firebase";
+import firebase from "firebase/compat/app";
 import "./Contact.css";
 import { Nav } from "../nav/Nav";
 import { useNavigate } from "react-router-dom";
@@ -11,6 +12,7 @@ const Contact = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
+  const currentDate = firebase.firestore.Timestamp.now();
   const [error, setError] = useState({}); // added
   const [loader, setLoader] = useState(false);
   const navigate = useNavigate();
@@ -35,6 +37,7 @@ const Contact = () => {
           name: name,
           email: email,
           message: message,
+          date: currentDate,
         })
         .then(() => {
           setLoader(false);
