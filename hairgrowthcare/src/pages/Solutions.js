@@ -61,7 +61,7 @@ export const Solutions = () => {
             </a>
              Because, it has the same main ingredients including of course
             minoxidil that 
-            <a href="https://www.amazon.com/dp/B0000Y8H3S" target="_blank">
+            <a href="https://amzn.to/3ZsL7bw" target="_blank">
               Rogaine
             </a>
             (and other brands have) has — but it is much more cheaper! As of
