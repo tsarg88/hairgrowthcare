@@ -7,7 +7,7 @@ export const Footer = () => (
     <body>
       <div className="footerLine"></div>
       <p>
-        As an Amazon Associate I may earn from
+        As an Amazon Associate I may earn a small commission from
         <br /> qualifying purchases
       </p>
 
