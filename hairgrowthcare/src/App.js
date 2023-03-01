@@ -23,14 +23,14 @@ function App() {
             element={
               <div className="testDiv">
                 <Link to="/contact" target="_blank">
-                  <div className="icon">
+                  {/* <div className="icon">
                     {" "}
                     <img src={ContactIcon} />{" "}
                   </div>
                   <div className="icon_mobile">
                     {" "}
                     <img src={ContactIconMobile} />{" "}
-                  </div>
+                  </div> */}
                 </Link>
 
                 <Nav />
