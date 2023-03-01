@@ -64,8 +64,8 @@ export const Solutions = () => {
             <a href="https://amzn.to/3ZsL7bw" target="_blank">
               Rogaine
             </a>
-            (and other brands have) has — but it is much more cheaper! As of
-            writing this: 3 months supply of{" "}
+            (and other brands have) — but it is much more cheaper! As of writing
+            this: 3 months supply of{" "}
             <a href="https://amzn.to/3ZsL7bw" target="_blank">
               Rogaine
             </a>{" "}
@@ -220,6 +220,7 @@ export const Solutions = () => {
             >
                https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3262531/
             </a>
+            <br></br>
             That is why I definitely recommend using Nizoral shampoo 2-3 times
             per week together with Keeps! I would suggest always using Keeps
             Conditioner after each shampoo(including after Nizoral).
