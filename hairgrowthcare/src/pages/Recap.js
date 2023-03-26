@@ -88,7 +88,7 @@ export const Recap = () => {
             <Link to="/contact" target="_blank">
               <a> Contact</a>
             </Link>{" "}
-            page!
+            page! suabatest
           </p>
         </body>
       </div>
