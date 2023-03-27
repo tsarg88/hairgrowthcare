@@ -17,8 +17,8 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    transform: translateY(3832px);
-    height: 256px;
+    transform: translateY(3880px);
+    height: 268px;
   }
   .footerLine {
     border-bottom: 1px solid lightgrey;
