@@ -36,7 +36,7 @@ export const Home = () => {
             them useful -- to stop hair loss and regrow!
           </p>
           <p>
-            I would like to note that I do NOT want and AGAINST hair transplant
+            I would like to note that I do not want and against hair transplant
             surgery; here are just a few reasons: painful procedure; leaves
             permanent scars; planted hair does not really grow and fall.
           </p>

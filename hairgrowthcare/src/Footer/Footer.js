@@ -1,6 +1,7 @@
 import React from "react";
 import "./Footer.css";
 import { Route, Routes, Link } from "react-router-dom";
+import f_icon from "../images/icon-facebook-48.png";
 
 export const Footer = () => (
   <footer>
@@ -19,6 +20,9 @@ export const Footer = () => (
         me if you have any
         <br /> questions/concerns!
         <br />
+        <a href="https://www.facebook.com/hairgrowthcare/" target="_blank">
+          <img src={f_icon} />
+        </a>
       </p>
       <p>Copyright &copy; {new Date().getFullYear()} hairgrwothcare.com</p>
     </body>

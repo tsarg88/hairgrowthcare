@@ -1,11 +1,11 @@
 footer {
   /* display: flex; */
-  margin-top: -1701px;
+  margin-top: -1741px;
   text-align: center;
   flex-wrap: wrap;
   justify-content: center;
   transform: translateY(1874px);
-  height: 176px;
+  height: 225px;
 }
 /* footer {
   display: flex;
@@ -17,8 +17,8 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    transform: translateY(3822px);
-    height: 217px;
+    transform: translateY(3832px);
+    height: 256px;
   }
   .footerLine {
     border-bottom: 1px solid lightgrey;

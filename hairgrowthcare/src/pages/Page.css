@@ -144,7 +144,7 @@ iframe {
 #recapContainer {
   transform: translateY(1084px);
   border-bottom: 1px solid lightgrey;
-  height: 639px;
+  /* height: 639px; */
 }
 
 @media only screen and (max-width: 720px) {
@@ -222,7 +222,7 @@ iframe {
   #recapContainer {
     transform: translateY(2821px);
     border-bottom: none;
-    height: 639px;
+    /* height: 639px; */
   }
 
   /* section {
