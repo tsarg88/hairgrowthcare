@@ -69,7 +69,7 @@ export const Dermaroller = () => {
           </div>
           <p>
             Another Dermaroller that I use and recommend is{" "}
-            <a href="https://amzn.to/3kyOgYK" target="_blank">
+            <a href="https://amzn.to/3zbiDbh" target="_blank">
               Dr.Pen
             </a>{" "}
             It has way few needles(128); however, it has great titanium coating
@@ -81,12 +81,12 @@ export const Dermaroller = () => {
           <div className="adPlace">
             <iframe
               sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
-              style={{ width: "120px", height: "240px" }}
-              marginWidth="0"
-              marginHeight="0"
+              style="width:120px;height:240px;"
+              marginwidth="0"
+              marginheight="0"
               scrolling="no"
-              frameBorder="0"
-              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B09BVSFFF1&asins=B09BVSFFF1&linkId=bcdd59937c7f48f7630fe56da02fd7bb&show_border=true&link_opens_in_new_window=true"
+              frameborder="0"
+              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B0B8F126C3&asins=B0B8F126C3&linkId=f489bd65c523e3d452572923518d8fcd&show_border=true&link_opens_in_new_window=true"
             ></iframe>
           </div>
              
