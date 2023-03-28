@@ -40,7 +40,7 @@ export const Dermaroller = () => {
             </a>
           </p>
           <p>
-            I use <strong>0.5mm</strong> Dermaroller about 2 times per week. I
+            I use <strong>0.5mm</strong> Dermaroller about 3 times per week. I
             do not recommend using needles more than 0.5mm because it will
             increase the risk of injury during application. Also, after research
             and personal trial, I've set a break of ~2-3 days after each
