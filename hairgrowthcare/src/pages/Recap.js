@@ -73,8 +73,9 @@ export const Recap = () => {
             </a>
             (run the roller across the scalp in multiple directions:
             horizontally, vertically, and diagonally for about ~2-3 minutes);
-            <br />I would recommend using the Dermaroller after taking shower as
-            the application would be more smooth and painless!
+            <br /> I would recommend using the Dermaroller after taking shower
+            and drying out with dryer -- as the application would be more smooth
+            and painless!
             <br></br>
             apply{" "}
             <a href="https://amzn.to/3kqUOIY" target="_blank">
