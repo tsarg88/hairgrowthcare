@@ -142,9 +142,14 @@ iframe {
 }
 
 #recapContainer {
-  transform: translateY(1084px);
+  transform: translateY(1103px);
   border-bottom: 1px solid lightgrey;
   /* height: 639px; */
+}
+
+.derm_rec {
+  font-style: italic;
+  margin-top: -23px;
 }
 
 @media only screen and (max-width: 720px) {
@@ -255,5 +260,10 @@ iframe {
   .recapLine {
     border-bottom: 1px solid lightgrey;
     margin-top: 25px;
+  }
+  .derm_rec {
+    font-size: 17px;
+    font-style: italic;
+    margin-top: -20px;
   }
 }
