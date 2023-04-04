@@ -29,7 +29,10 @@ export const Solutions = () => {
             not know much about treatments and on top of that, at that time
             there were not many options available as it is NOW. The most
             “popular” option back then was to “stick” with the{" "}
-            <a href="https://amzn.to/3ZsL7bw" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B0000Y8H3S/ref=cm_sw_r_as_gl_api_gl_i_E9GARC3C204RMBVZY9BS?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Rogaine
             </a>{" "}
             brand. The main ingredient responsible to stop hair loss and regrow
@@ -46,12 +49,18 @@ export const Solutions = () => {
           <p>
             Also, as now there are available much <strong>more</strong> brands
             that offer the same minoxidil(
-            <a href="https://amzn.to/3IX1F6i" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B099HVJRZ1/ref=cm_sw_r_as_gl_api_gl_i_E18AYBZ1WN3W3N9FP394?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               {" "}
               Keeps
             </a>
             ,{" "}
-            <a href="https://amzn.to/3L0llrt" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B09H3R8Y7P/ref=cm_sw_r_as_gl_api_gl_i_9B5Y0EEGJZJRMSCN2TEW?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Hims
             </a>
             , etc.), it became obvious, that basically, the only real difference
@@ -64,18 +73,27 @@ export const Solutions = () => {
             </a>
              Because, it has the same main ingredients including of course
             minoxidil that 
-            <a href="https://amzn.to/3ZsL7bw" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B0000Y8H3S/ref=cm_sw_r_as_gl_api_gl_i_E9GARC3C204RMBVZY9BS?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Rogaine
             </a>
             (and other brands have) — but it is much more cheaper! As of writing
             this: 3 months supply of{" "}
-            <a href="https://amzn.to/3ZsL7bw" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B0000Y8H3S/ref=cm_sw_r_as_gl_api_gl_i_E9GARC3C204RMBVZY9BS?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Rogaine
             </a>{" "}
             solution costs $42.72 whereas 6 months of Kirkland's costs only $30;
             so that is why for the minoxidil part of my recommendations, I
             recommend using — 
-            <a href="https://amzn.to/3Z7VH8g" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B008BMOEGA/ref=cm_sw_r_as_gl_api_gl_i_HNEEBCB2Z2P4J5ZNB6D9?linkCode=ml2&tag=hgc03-20"
+              target="_blank"
+            >
               Kirkland Minoxidil 5% Extra Strength
             </a>
             <div className="adPlace">
@@ -129,7 +147,10 @@ export const Solutions = () => {
             Then I started to look for finasteride <strong>alternatives</strong>
             ; or in particular -- healthy/organic/natural ways to block the DHT.
             This led me to find{" "}
-            <a href="https://amzn.to/3y4tp2l" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B07CRNLRPQ/ref=cm_sw_r_as_gl_api_gl_i_3DMTVXARYBPJT0WHX0HN?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Shapiro MD Leave-In Daily Foam
             </a>
             . It has DHT Fighting Vegan Formula which consists of{" "}
@@ -137,7 +158,10 @@ export const Solutions = () => {
             and caffeine. I apply it 3-4 times per week between my daily
             minoxidil applications. My first recommendation on{" "}
             <strong>DHT blocking</strong> is using 
-            <a href="https://amzn.to/3y4tp2l" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B07CRNLRPQ/ref=cm_sw_r_as_gl_api_gl_i_3DMTVXARYBPJT0WHX0HN?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Shapiro MD Leave-In Daily Foam
             </a>
              as an alternative to -- <strong>Finasteride</strong> -- that have
@@ -163,11 +187,17 @@ export const Solutions = () => {
           </p>
           <p>
             I recommend using{" "}
-            <a href="https://amzn.to/3mbkObH" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B0994WXS42/ref=cm_sw_r_as_gl_api_gl_i_QR35GX821RJNJMQVFB7A?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Keeps Shampoo
             </a>{" "}
             and{" "}
-            <a href="https://amzn.to/3ICE2OV" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B0994YMK1Z/ref=cm_sw_r_as_gl_api_gl_i_K2R99C4RN2K8F9Y7WTD1?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Conditioner
             </a>{" "}
             because they both contain 4 key <strong>natural</strong>{" "}
@@ -175,7 +205,10 @@ export const Solutions = () => {
             keratin production), green tea(improves hair quality), and
             caffeine(stimulates hair follicles). The first thing that you will
             notice when using 
-            <a href="https://amzn.to/3ICE2OV" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B0994YMK1Z/ref=cm_sw_r_as_gl_api_gl_i_K2R99C4RN2K8F9Y7WTD1?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Keeps Conditioner
             </a>{" "}
             is a very distinct/cool green tea smell -- which I do really like!
@@ -208,7 +241,10 @@ export const Solutions = () => {
           </div>
           <p>
             The next Shampoo that I recommend using 2-3 times per week is{" "}
-            <a href="https://amzn.to/3kvIyqo" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B00AINMFAC/ref=cm_sw_r_as_gl_api_gl_i_GEB7Z0ATNRM5BSRTY28Z?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Nizoral
             </a>{" "}
             which contains <strong>Ketoconazole</strong> -- in addition to being
@@ -244,7 +280,10 @@ export const Solutions = () => {
             And lastly, I also use and recommend one more Shampoo; I keep it in
             my backpack when I am out in the pool/sauna; usually, once per week.
             The{" "}
-            <a href="https://amzn.to/3KJCZj0" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B00O4XZYLO/ref=cm_sw_r_as_gl_api_gl_i_CZEWTBWXVXB96F24CPRA?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Alpecin Shampoo{" "}
             </a>
             -- promotes natural hair growth! It is probably the best Shampoo
@@ -265,7 +304,10 @@ export const Solutions = () => {
           <p>
             The last product that I am recommending in this 
             <span style={{ color: "blue" }}>Solutions</span> section is the --{" "}
-            <a href="https://amzn.to/3ZjwiZ6" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B09WDXPZY1/ref=cm_sw_r_as_gl_api_gl_i_B68Y1HDD52XFMRABDSJB?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Keeps Matte Thickening Hair Pomade for Men
             </a>{" "}
             The important thing about this hair styling pomade is that in
