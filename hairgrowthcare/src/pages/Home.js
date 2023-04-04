@@ -17,7 +17,9 @@ export const Home = () => {
         <body>
           <p>
             Hello, thanks for visiting{" "}
-            <span id="siteColor">hairgrowthcare.com!</span>
+            <span style={{ color: "blue", fontWeight: "bold" }}>
+              HairGrowthCare!
+            </span>
           </p>
 
           <p>
@@ -37,8 +39,11 @@ export const Home = () => {
           </p>
           <p>
             I would like to note that I do not want and against hair transplant
-            surgery; here are just a few reasons: painful procedure; leaves
-            permanent scars; planted hair does not really grow and fall.
+            surgery; here are just a few reasons:{" "}
+            <span style={{ fontStyle: "italic" }}>
+              painful procedure; leaves permanent scars; planted hair does not
+              really grow and fall.
+            </span>
           </p>
           <p>
             However, I have some optimistic hope to PRP(platelet-rich plasma)
