@@ -30,20 +30,32 @@ export const Recap = () => {
           <p>
             Here is one possible regimen that you could set up and use:<br></br>{" "}
             <strong>Morning:</strong> take a shower with{" "}
-            <a href="https://amzn.to/3xYBCp6" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B0994WXS42/ref=cm_sw_r_as_gl_api_gl_i_QR35GX821RJNJMQVFB7A?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Keeps Shampoo
             </a>{" "}
             or{" "}
-            <a href="https://amzn.to/3SEeZ2v" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B00AINMFAC/ref=cm_sw_r_as_gl_api_gl_i_GEB7Z0ATNRM5BSRTY28Z?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Nizoral
             </a>{" "}
             (I would recommend using Nizoral 2-3 times per week and using Keeps
             Shampoo the remaining days). After each shampoo, use{" "}
-            <a href="https://amzn.to/41xnoJ3" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B0994YMK1Z/ref=cm_sw_r_as_gl_api_gl_i_K2R99C4RN2K8F9Y7WTD1?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Keeps Conditioner
             </a>{" "}
             and then apply (on dry hair){" "}
-            <a href="https://amzn.to/3SzMfrE" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B008BMOEGA/ref=cm_sw_r_as_gl_api_gl_i_HNEEBCB2Z2P4J5ZNB6D9?linkCode=ml2&tag=hgc03-20"
+              target="_blank"
+            >
               Kirkland Minoxidil 5% Extra Strength
             </a>
             .<br></br>
@@ -51,11 +63,17 @@ export const Recap = () => {
 
           <p>
             <strong>Afternoon:</strong> apply{" "}
-            <a href="https://amzn.to/3SzzRba" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B07CRNLRPQ/ref=cm_sw_r_as_gl_api_gl_i_3DMTVXARYBPJT0WHX0HN?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Shapiro MD Leave-In Daily Foam<strong>;</strong>
             </a>{" "}
             <br></br>3 times (or every other day) per week use{" "}
-            <a href="https://amzn.to/3SBSsn4" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B07M5X4D3P/ref=cm_sw_r_as_gl_api_gl_i_X584KRMV04VKDATDB778?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               iRestore Professional 282 Laser Hair Growth System
             </a>
             .<br></br>
@@ -63,11 +81,17 @@ export const Recap = () => {
 
           <p>
             <strong>Night (or before bed):</strong> 2-3 times per week use{" "}
-            <a href="https://amzn.to/3IIY3DI" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B07VR4NKQG/ref=cm_sw_r_as_gl_api_gl_i_AVWVGN90YBPTP91A3F0X?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Alphaluxy Dermaroller
             </a>{" "}
             or{" "}
-            <a href="https://amzn.to/3ZqOr73" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B0B8F126C3/ref=cm_sw_r_as_gl_api_gl_i_E8EF3TVHFG2ZMQWFP808?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               {" "}
               Dr.Pen
             </a>
@@ -75,7 +99,10 @@ export const Recap = () => {
             horizontally, vertically, and diagonally for about ~2-3 minutes);
             <br />
             apply{" "}
-            <a href="https://amzn.to/3kqUOIY" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B008BMOEGA/ref=cm_sw_r_as_gl_api_gl_i_HNEEBCB2Z2P4J5ZNB6D9?linkCode=ml2&tag=hgc03-20"
+              target="_blank"
+            >
               Kirkland Minoxidil 5% Extra Strength
             </a>
             <br />
