@@ -56,7 +56,10 @@ export const Solutions = () => {
             </a>
             , etc.), it became obvious, that basically, the only real difference
             is the <strong>price!</strong> That is why I am recommending 
-            <a href="https://amzn.to/3Z7VH8g" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B008BMOEGA/ref=cm_sw_r_as_gl_api_gl_i_HNEEBCB2Z2P4J5ZNB6D9?linkCode=ml2&tag=hgc03-20"
+              target="_blank"
+            >
               Kirkland!
             </a>
              Because, it has the same main ingredients including of course
