@@ -49,7 +49,10 @@ export const Dermaroller = () => {
             the Dermaroller I apply minoxidil which in addition to better
             absorption after derma rolling also gives relief to the scalp. The
             first Dermaroller that I use is{" "}
-            <a href="https://amzn.to/3y1gyy9" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B07VR4NKQG/ref=cm_sw_r_as_gl_api_gl_i_AVWVGN90YBPTP91A3F0X?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Alphaluxy Dermaroller.
             </a>{" "}
             One of the important things about Dermaroller is the number of
@@ -69,7 +72,10 @@ export const Dermaroller = () => {
           </div>
           <p>
             Another Dermaroller that I use and recommend is{" "}
-            <a href="https://amzn.to/3TQx5yM" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B0B8F126C3/ref=cm_sw_r_as_gl_api_gl_i_E8EF3TVHFG2ZMQWFP808?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               Dr.Pen
             </a>{" "}
             It has way few needles(128); however, it has great titanium coating

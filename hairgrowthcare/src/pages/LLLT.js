@@ -27,7 +27,10 @@ export const Lllt = () => {
             <strong>stimulating</strong> hair follicles to promote hair growth
             and prevent hair loss. And that is exactly the main reason that I
             have chosen --{" "}
-            <a href="https://amzn.to/3EGM2x2" target="_blank">
+            <a
+              href="https://www.amazon.com/dp/B07M5X4D3P/ref=cm_sw_r_as_gl_api_gl_i_X584KRMV04VKDATDB778?linkCode=ml1&tag=hgc03-20"
+              target="_blank"
+            >
               iRestore Professional 282Laser Hair Growth System.
             </a>
           </p>{" "}
