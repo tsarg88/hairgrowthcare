@@ -91,7 +91,10 @@ export const Recap = () => {
             <Link to="/contact" target="_blank">
               <a> Contact</a>
             </Link>{" "}
-            page!
+            page! or visit our{" "}
+            <a href="https://www.facebook.com/hairgrowthcare/" target="_blank">
+              Facebook page!
+            </a>
           </p>
         </body>
       </div>
