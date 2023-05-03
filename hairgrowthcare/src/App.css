@@ -4,6 +4,11 @@ body {
   overflow-x: hidden !important;
 }
 
+::selection {
+  color: white;
+  background: rgb(23, 2, 143);
+}
+
 .appContainer {
   height: auto;
   width: 100vw;
