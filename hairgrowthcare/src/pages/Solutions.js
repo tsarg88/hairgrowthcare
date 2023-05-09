@@ -86,7 +86,7 @@ export const Solutions = () => {
             >
               Rogaine
             </a>{" "}
-            solution costs $42.72 whereas 6 months of Kirkland's costs only $30;
+            solution costs $42.72 whereas 6 months of Kirkland's costs only $20;
             so that is why for the minoxidil part of my recommendations, I
             recommend using — 
             <a
