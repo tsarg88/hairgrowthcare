@@ -47,8 +47,7 @@ export const Solutions = () => {
           </p>
              
           <p>
-            Also, as now there are available much <strong>more</strong> brands
-            that offer the same minoxidil(
+            With so <strong>many</strong> brands now offering minoxidil, such as
             <a
               href="https://www.amazon.com/dp/B099HVJRZ1/ref=cm_sw_r_as_gl_api_gl_i_E18AYBZ1WN3W3N9FP394?linkCode=ml1&tag=hgc03-20"
               target="_blank"
@@ -63,7 +62,7 @@ export const Solutions = () => {
             >
               Hims
             </a>
-            , etc.), it became obvious, that basically, the only real difference
+            , etc., it became obvious, that basically, the only real difference
             is the <strong>price!</strong> That is why I am recommending 
             <a
               href="https://www.amazon.com/dp/B008BMOEGA/ref=cm_sw_r_as_gl_api_gl_i_HNEEBCB2Z2P4J5ZNB6D9?linkCode=ml2&tag=hgc03-20"
