@@ -64,10 +64,7 @@ export const Solutions = () => {
             </a>
             , etc., it became obvious, that basically, the only real difference
             is the <strong>price!</strong> That is why I am recommending 
-            <a
-              href="https://www.amazon.com/dp/B008BMOEGA/ref=cm_sw_r_as_gl_api_gl_i_HNEEBCB2Z2P4J5ZNB6D9?linkCode=ml2&tag=hgc03-20"
-              target="_blank"
-            >
+            <a href="https://amzn.to/3HZ3Zsx" target="_blank">
               Kirkland!
             </a>
              Because, it has the same main ingredients including of course
@@ -86,24 +83,21 @@ export const Solutions = () => {
             >
               Rogaine
             </a>{" "}
-            solution costs $42.72 whereas <strong>6</strong> months of
-            Kirkland's costs <strong>only</strong> $20; so that is why for the
-            minoxidil part of my recommendations, I recommend using — 
-            <a
-              href="https://www.amazon.com/dp/B008BMOEGA/ref=cm_sw_r_as_gl_api_gl_i_HNEEBCB2Z2P4J5ZNB6D9?linkCode=ml2&tag=hgc03-20"
-              target="_blank"
-            >
+            solution costs $50 whereas <strong>6</strong> months of Kirkland's
+            costs <strong>only</strong> $29; so that is why for the minoxidil
+            part of my recommendations, I recommend using — 
+            <a href="https://amzn.to/3HZ3Zsx" target="_blank">
               Kirkland Minoxidil 5% Extra Strength
             </a>
             <div className="adPlace">
               <iframe
                 sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
-                style={{ width: 120, height: 240 }}
-                marginWidth={0}
-                marginHeight={0}
+                style={{ width: "120px", height: "240px" }}
+                marginwidth="0"
+                marginheight="0"
                 scrolling="no"
-                frameBorder={0}
-                src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B008BMOEGA&asins=B008BMOEGA&linkId=a197820222ca1aecf5b13906c409a111&show_border=true&link_opens_in_new_window=true"
+                frameborder="0"
+                src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B00EXPSYVA&asins=B00EXPSYVA&linkId=16a6ad165d043d14dcc7c079af8870a1&show_border=true&link_opens_in_new_window=true"
               ></iframe>
             </div>
           </p>
