@@ -64,7 +64,7 @@ export const Solutions = () => {
             </a>
             , etc., it became obvious, that basically, the only real difference
             is the <strong>price!</strong> That is why I am recommending 
-            <a href="https://amzn.to/3pPnGN7" target="_blank">
+            <a href="https://amzn.to/3MF0VV0" target="_blank">
               Kirkland!
             </a>
              Because, it has the same main ingredients including of course
@@ -84,9 +84,9 @@ export const Solutions = () => {
               Rogaine
             </a>{" "}
             solution costs $50 whereas <strong>6</strong> months of Kirkland's
-            costs <strong>only</strong> $29; so that is why for the minoxidil
+            costs <strong>only</strong> $28; so that is why for the minoxidil
             part of my recommendations, I recommend using — 
-            <a href="https://amzn.to/3pPnGN7" target="_blank">
+            <a href="https://amzn.to/3MF0VV0" target="_blank">
               Kirkland Minoxidil 5% Extra Strength
             </a>
             <div className="adPlace">
@@ -97,7 +97,7 @@ export const Solutions = () => {
                 marginheight="0"
                 scrolling="no"
                 frameborder="0"
-                src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B003U4YC70&asins=B003U4YC70&linkId=59b6056e64ce10b9678ada370479b7f9&show_border=true&link_opens_in_new_window=true"
+                src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B078GYC6QN&asins=B078GYC6QN&linkId=73c4b54ed85527572c9dcd652a914379&show_border=true&link_opens_in_new_window=true"
               ></iframe>
             </div>
           </p>
