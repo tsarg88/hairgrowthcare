@@ -21,7 +21,6 @@ export const Home = () => {
               HairGrowthCare!
             </span>
           </p>
-
           <p>
             In this site you will find useful info and review about how to
             effectively fight hair loss and regrow!
@@ -46,10 +45,9 @@ export const Home = () => {
             </span>
           </p>
           <p>
-            However, I have some optimistic hope to PRP(platelet-rich plasma)
-            treatment(taking plasma from your blood and injecting it into your
-            scalp to stimulate hair growth) and I hope that they will improve in
-            the future with more concrete results to showcase before trying it!
+            However, based on recent developments, research, and trials, I am
+            optimistic that new, effective, and painless treatment alternatives
+            to hair transplant surgeries will be available in the near future!
           </p>
         </body>
       </div>
