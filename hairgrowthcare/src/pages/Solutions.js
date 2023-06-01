@@ -97,7 +97,7 @@ export const Solutions = () => {
                 marginheight="0"
                 scrolling="no"
                 frameborder="0"
-                src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B078GYC6QN&asins=B078GYC6QN&linkId=748ef3f6a716390c7f6ac54f8850962d&show_border=true&link_opens_in_new_window=true"
+                src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B078GYC6QN&asins=B078GYC6QN&linkId=748ef3f6a716390c7f6ac54f8850962d&show_border=false&link_opens_in_new_window=true"
               ></iframe>
             </div>
           </p>
