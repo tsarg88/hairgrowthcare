@@ -1,7 +1,10 @@
 import React from "react";
 import { useNav } from "../customHooks/useNav";
 import "./Page.css";
-import kirkland from "../images/kirkland.jpg";
+import shapiro_foam from "../images/shapiro_foam.png";
+import kirk_min from "../images/kirk_min.png"
+import keeps_conditioner from "../images/keeps_conditioner.png"
+import keeps_shampoo from "../images/keeps_shampoo.png"
 
 export const Solutions = () => {
   // useNav takes in a navLinkId and returns a ref
@@ -64,7 +67,7 @@ export const Solutions = () => {
             </a>
             , etc., it became obvious, that basically, the only real difference
             is the <strong>price!</strong> That is why I am recommending 
-            <a href="https://amzn.to/3MF0VV0" target="_blank">
+            <a href="https://amzn.to/44YFhCX" target="_blank">
               Kirkland!
             </a>
              Because, it has the same main ingredients including of course
@@ -83,14 +86,18 @@ export const Solutions = () => {
             >
               Rogaine
             </a>{" "}
-            solution costs $50 whereas <strong>6</strong> months of Kirkland's
+            solution costs $34 whereas <strong>6</strong> months of Kirkland's
             costs <strong>only</strong> $28; so that is why for the minoxidil
             part of my recommendations, I recommend using — 
-            <a href="https://amzn.to/3MF0VV0" target="_blank">
+            <a href="https://amzn.to/4cfanJ1" target="_blank">
               Kirkland Minoxidil 5% Extra Strength
             </a>
             <div className="adPlace">
-              <iframe
+            <a href="https://amzn.to/44YFhCX" target="_blank" rel="noopener noreferrer">
+              <img src={kirk_min} alt="Kirkland Minoxidil" />
+            </a>
+
+              {/* <iframe
                 sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
                 style={{ width: "120px", height: "240px" }}
                 marginwidth="0"
@@ -98,7 +105,7 @@ export const Solutions = () => {
                 scrolling="no"
                 frameborder="0"
                 src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B078GYC6QN&asins=B078GYC6QN&linkId=748ef3f6a716390c7f6ac54f8850962d&show_border=false&link_opens_in_new_window=true"
-              ></iframe>
+              ></iframe> */}
             </div>
           </p>
           <p>
@@ -124,11 +131,8 @@ export const Solutions = () => {
             decided to give it a try. I have signed up for a subscription plan
             and got approved for the prescription of topical finasteride with
             0.3% concentration. However, after just using it for about a month,
-            I noticed sexual side effects; in particular, I was having acute
-            pain during orgasm. I <strong>immediately canceled</strong> my
-            subscription and stopped using Finasteride! Fortunately for me, the
-            sides ended within a week after stopping applying topical
-            FInasteride!{" "}
+            and reading reviews, I <strong>immediately canceled</strong> my
+            subscription and stopped using Finasteride!
           </p>
           <p>
             And then after doing proper research, I have learned that blocking
@@ -160,7 +164,10 @@ export const Solutions = () => {
              as an alternative to -- <strong>Finasteride</strong> -- that have
             side effects, most notably -- sexual!
             <div className="adPlace">
-              <iframe
+            <a href="https://amzn.to/4edcD5l" target="_blank" rel="noopener noreferrer">
+              <img src={shapiro_foam} alt="Shapiro Foam" />
+            </a>
+              {/* <iframe
                 sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
                 style={{ width: "120px", height: "240px" }}
                 marginWidth="0"
@@ -168,7 +175,7 @@ export const Solutions = () => {
                 scrolling="no"
                 frameBorder="0"
                 src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B07CRNLRPQ&asins=B07CRNLRPQ&linkId=fdeb0f58d99249a1a54b702e89665c06&show_border=true&link_opens_in_new_window=true"
-              ></iframe>
+              ></iframe> */}
             </div>
           </p>
           <p>
@@ -212,7 +219,13 @@ export const Solutions = () => {
             I think is an excellent <strong>alternative</strong> to Finasteride!
           </p>
           <div className="adPlace_keeps">
-            <iframe
+          <a href="https://amzn.to/44YFhCX" target="_blank" rel="noopener noreferrer">
+              <img src={keeps_shampoo} alt="Keeps Shampoo"  style={{ width: '120px', height: '240px' }}/>
+          </a>
+          <a href="https://amzn.to/3XiTOHV" target="_blank" rel="noopener noreferrer">
+              <img src={keeps_conditioner} alt="Keeps Conditioner"  style={{ width: '120px', height: '240px' }}/>
+          </a>
+            {/* <iframe
               sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
               style={{ width: "120px", height: "240px" }}
               marginWidth="0"
@@ -220,8 +233,8 @@ export const Solutions = () => {
               scrolling="no"
               frameBorder="0"
               src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B0994WXS42&asins=B0994WXS42&linkId=74035aee259aa524141fbdba79eb497c&show_border=true&link_opens_in_new_window=true"
-            ></iframe>
-            <iframe
+            ></iframe> */}
+            {/* <iframe
               sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
               style={{ width: "120px", height: "240px" }}
               marginWidth="0"
@@ -229,7 +242,7 @@ export const Solutions = () => {
               scrolling="no"
               frameBorder="0"
               src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B0994YMK1Z&asins=B0994YMK1Z&linkId=ce76e691d52a98146ed4e76320e26c2e&show_border=true&link_opens_in_new_window=true"
-            ></iframe>
+            ></iframe> */}
              
           </div>
           <p>
@@ -330,5 +343,3 @@ export const Solutions = () => {
     </section>
   );
 };
-
-// export default Home;

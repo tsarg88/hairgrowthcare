@@ -108,16 +108,46 @@ section div {
   align-items: center; */
 }
 
-.adPlace img {
+/* .adPlace img {
   max-width: 100%;
   height: auto;
+} */
+.adPlace {
+
+  
+  justify-content: center
 }
 
-.adPlace_keeps {
-  display: flex;
-  flex-direction: row;
-  margin-left: 123px;
+.adPlace img {
+  max-width: 100%;
+  margin-left: -450px;
 }
+@media (max-width: 767px) {
+  .adPlace img{
+    max-width: 100%;
+    height: auto;
+    margin-left: -93px;
+  }
+}
+
+
+.adPlace_keeps {
+  
+  width: 120px; /* Set the width to 120 pixels */
+  height: 240px; /* Set the height to 240 pixels */
+  display: flex; /* Define this element as a flex container */
+  flex-direction: row; /* Set the direction of the flex items to be in a row */
+  margin-left: 123px; /* Apply a left margin of 123 pixels */
+}
+
+@media (max-width: 767px) {
+.adPlace_keeps {
+  
+  
+  display: flex; /* Define this element as a flex container */
+  flex-direction: row; /* Set the direction of the flex items to be in a row */
+  margin: auto; /* Apply a left margin of 123 pixels */
+}}
 
 iframe {
   width: 600px !important;
@@ -241,10 +271,10 @@ iframe {
   iframe {
     width: 200px !important;
   }
-  .adPlace_keeps {
+  /* .adPlace_keeps {
     flex-direction: row;
     margin-left: 0px;
-  }
+  } */
   .line {
     border-bottom: 1px solid lightgrey;
     margin-top: 35px;
