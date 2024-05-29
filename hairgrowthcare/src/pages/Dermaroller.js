@@ -1,6 +1,7 @@
 import React from "react";
 import { useNav } from "../customHooks/useNav";
 import "./Page.css";
+import dermaroller from "../images/dermaroller.png"
 
 export const Dermaroller = () => {
   // useNav takes in a navLinkId and returns a ref
@@ -48,19 +49,22 @@ export const Dermaroller = () => {
             and induce collagen for the growth of new hair. After using
             the Dermaroller I apply minoxidil which in addition to better
             absorption after derma rolling also gives relief to the scalp. The
-            first Dermaroller that I use is{" "}
+            Dermaroller that I use is{" "}
             <a
-              href="https://www.amazon.com/dp/B07VR4NKQG/ref=cm_sw_r_as_gl_api_gl_i_AVWVGN90YBPTP91A3F0X?linkCode=ml1&tag=hgc03-20"
+              href="https://amzn.to/44ZRnM6"
               target="_blank"
             >
-              Alphaluxy Dermaroller.
+              KOI BEAUTY Dermaroller
             </a>{" "}
             One of the important things about Dermaroller is the number of
             needles and the material; this one has 540 needles(compared two an
             average of 200) and the needles are made of titanium material.
           </p>
-          <div className="adPlace">
-            <iframe
+          <div className="dermaroller">
+            <a href="https://amzn.to/44ZRnM6" target="_blank" rel="noopener noreferrer">
+              <img src={dermaroller} alt="Dermaroller" />
+            </a>
+            {/* <iframe
               sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
               style={{ width: "120px", height: "240px" }}
               marginWidth="0"
@@ -68,9 +72,9 @@ export const Dermaroller = () => {
               scrolling="no"
               frameBorder="0"
               src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B07VR4NKQG&asins=B07VR4NKQG&linkId=3ec1857399a7e62cce110bd0e0dcf61c&show_border=true&link_opens_in_new_window=true"
-            ></iframe>
+            ></iframe> */}
           </div>
-          <p>
+          {/* <p>
             Another Dermaroller that I use and recommend is{" "}
             <a
               href="https://www.amazon.com/dp/B0B8F126C3/ref=cm_sw_r_as_gl_api_gl_i_E8EF3TVHFG2ZMQWFP808?linkCode=ml1&tag=hgc03-20"
@@ -82,9 +86,9 @@ export const Dermaroller = () => {
             needles compared to other Dermaroller's needles and the brand is --
             very <strong>established</strong> in this field; that is why its
             quality is very <strong>good!</strong>
-          </p>
+          </p> */}
            
-          <div className="adPlace">
+          {/* <div className="adPlace">
             <iframe
               sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
               style={{ width: "120px", height: "240px" }}
@@ -93,7 +97,7 @@ export const Dermaroller = () => {
               scrolling="no"
               frameBorder="0"
               src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B0B8F126C3&asins=B0B8F126C3&linkId=f489bd65c523e3d452572923518d8fcd&show_border=true&link_opens_in_new_window=true"
-            ></iframe>
+            ></iframe> */}
 
             {/* <iframe
               sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
@@ -104,7 +108,7 @@ export const Dermaroller = () => {
               frameborder="0"
               src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B0B8F126C3&asins=B0B8F126C3&linkId=12c06cdaa6cc6cb292089fc82cde6e79&show_border=true&link_opens_in_new_window=true"
             ></iframe> */}
-          </div>
+          {/* </div> */}
              
         </body>
       </div>

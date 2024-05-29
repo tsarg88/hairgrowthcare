@@ -5,6 +5,9 @@ import shapiro_foam from "../images/shapiro_foam.png";
 import kirk_min from "../images/kirk_min.png"
 import keeps_conditioner from "../images/keeps_conditioner.png"
 import keeps_shampoo from "../images/keeps_shampoo.png"
+import nizoral from "../images/nizoral.png"
+import alpecin from "../images/alpecin.png"
+import pomade from "../images/pomade.png"
 
 export const Solutions = () => {
   // useNav takes in a navLinkId and returns a ref
@@ -86,8 +89,8 @@ export const Solutions = () => {
             >
               Rogaine
             </a>{" "}
-            solution costs $34 whereas <strong>6</strong> months of Kirkland's
-            costs <strong>only</strong> $28; so that is why for the minoxidil
+            solution costs $42 whereas <strong>6</strong> months of Kirkland's
+            costs <strong>only</strong> $34; so that is why for the minoxidil
             part of my recommendations, I recommend using — 
             <a href="https://amzn.to/4cfanJ1" target="_blank">
               Kirkland Minoxidil 5% Extra Strength
@@ -271,8 +274,11 @@ export const Solutions = () => {
             Conditioner after each shampoo(including after Nizoral).
           </p>
            {" "}
-          <div className="adPlace">
-            <iframe
+          <div className="nizoral">
+          <a href="https://amzn.to/3R5GQJw" target="_blank" rel="noopener noreferrer">
+              <img src={nizoral} alt="Nizoral Shampoo" />
+            </a>
+            {/* <iframe
               sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
               style={{ width: "120px", height: "240px" }}
               marginWidth="0"
@@ -280,7 +286,7 @@ export const Solutions = () => {
               scrolling="no"
               frameBorder="0"
               src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B00AINMFAC&asins=B00AINMFAC&linkId=7d619e30801658c42f949ed1fdd42ea6&show_border=true&link_opens_in_new_window=true"
-            ></iframe>
+            ></iframe> */}
           </div>
           <p>
             And lastly, I also use and recommend one more Shampoo; I keep it in
@@ -296,8 +302,11 @@ export const Solutions = () => {
             with <strong>caffeine</strong>, and after using it you will
             certainly appreciate its <strong>quality!</strong>
           </p>
-          <div className="adPlace">
-            <iframe
+          <div className="alpecin">
+            <a href="https://www.amazon.com/dp/B00O4XZYLO/ref=cm_sw_r_as_gl_api_gl_i_CZEWTBWXVXB96F24CPRA?linkCode=ml1&tag=hgc03-20" target="_blank" rel="noopener noreferrer">
+              <img src={alpecin} alt="Alpecin Shampoo" />
+            </a>
+            {/* <iframe
               sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
               style={{ width: "120px", height: "240px" }}
               marginWidth="0"
@@ -305,7 +314,7 @@ export const Solutions = () => {
               scrolling="no"
               frameBorder="0"
               src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B00O4XZYLO&asins=B00O4XZYLO&linkId=7a9dd48ba9bdad8ea6eed024d447a907&show_border=true&link_opens_in_new_window=true"
-            ></iframe>
+            ></iframe> */}
           </div>
           <p>
             The last product that I am recommending in this 
@@ -327,8 +336,11 @@ export const Solutions = () => {
             those natural and healthy ingredients you add one more --{" "}
             <strong>a healthy alternative</strong> to Finasteride!
           </p>
-          <div className="adPlace">
-            <iframe
+          <div className="pomade">
+            <a href="https://amzn.to/3ViKYbp" target="_blank" rel="noopener noreferrer">
+              <img src={pomade} alt="Keeps Pomade" />
+            </a>
+            {/* <iframe
               sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
               style={{ width: 120, height: 240 }}
               marginwidth="0"
@@ -336,7 +348,7 @@ export const Solutions = () => {
               scrolling="no"
               frameborder="0"
               src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B09WDXPZY1&asins=B09WDXPZY1&linkId=8042d4850568304f1fa255cb242510eb&show_border=true&link_opens_in_new_window=true"
-            ></iframe>
+            ></iframe> */}
           </div>
         </body>
       </div>

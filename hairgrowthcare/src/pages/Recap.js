@@ -82,19 +82,19 @@ export const Recap = () => {
           <p>
             <strong>Night (or before bed):</strong> 2-3 times per week use{" "}
             <a
-              href="https://www.amazon.com/dp/B07VR4NKQG/ref=cm_sw_r_as_gl_api_gl_i_AVWVGN90YBPTP91A3F0X?linkCode=ml1&tag=hgc03-20"
+              href="https://amzn.to/44ZRnM6"
               target="_blank"
             >
-              Alphaluxy Dermaroller
+               KOI BEAUTY Dermaroller
             </a>{" "}
-            or{" "}
+            {/* or{" "}
             <a
               href="https://www.amazon.com/dp/B0B8F126C3/ref=cm_sw_r_as_gl_api_gl_i_E8EF3TVHFG2ZMQWFP808?linkCode=ml1&tag=hgc03-20"
               target="_blank"
             >
               {" "}
               Dr.Pen
-            </a>
+            </a> */}
             (run the roller across the scalp in multiple directions:
             horizontally, vertically, and diagonally for about ~2-3 minutes);
             <br />

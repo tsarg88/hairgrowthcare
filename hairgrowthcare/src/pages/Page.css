@@ -149,6 +149,108 @@ section div {
   margin: auto; /* Apply a left margin of 123 pixels */
 }}
 
+.nizoral{
+  height: 200px;
+  margin-left: 476px;
+}
+.nizoral img {
+  max-width: 45%;
+  margin-left: -187px;
+  margin-top: -35px;
+}
+@media (max-width: 767px) {
+  .nizoral {
+    height: 204px;
+    margin-left: 181px;
+  }
+  .nizoral img {
+    max-width: 61%;
+    margin-left: -55px;
+    margin-top: -25px;
+  }
+}
+
+.alpecin{
+  height: 200px;
+  margin-left: 476px;
+}
+.alpecin img {
+  max-width: 38%;
+  margin-left: -179px;
+  margin-top: -20px;
+}
+@media (max-width: 767px) {
+  .alpecin {
+    height: 204px;
+    margin-left: 181px;
+  }
+  .alpecin img {
+    max-width: 61%;
+    margin-left: -55px;
+    margin-top: -25px;
+  }
+}
+.pomade{
+  height: 200px;
+  margin-left: 476px;
+}
+.pomade img {
+  max-width: 45%;
+  margin-left: -179px;
+  margin-top: -12px;
+}
+@media (max-width: 767px) {
+  .pomade {
+    height: 204px;
+    margin-left: 181px;
+  }
+  .pomade img {
+    max-width: 61%;
+    margin-left: -55px;
+    margin-top: -25px;
+  }
+}
+.dermaroller{
+  height: 200px;
+  margin-left: 476px;
+}
+.dermaroller img {
+  max-width: 94%;
+  margin-left: -218px;
+  margin-top: 19px;
+}
+@media (max-width: 767px) {
+  .dermaroller {
+    height: 204px;
+    margin-left: 181px;
+  }
+  .dermaroller img {
+    max-width: 101%;
+    margin-left: -101px;
+    margin-top: 23px;
+  }
+}
+.irestore{
+  height: 200px;
+  margin-left: 476px;
+}
+.irestore img {
+  max-width: 94%;
+  margin-left: -218px;
+  margin-top: 19px;
+}
+@media (max-width: 767px) {
+  .irestore {
+    height: 204px;
+    margin-left: 181px;
+  }
+  .irestore img {
+    max-width: 101%;
+    margin-left: -101px;
+    margin-top: 23px;
+  }
+}
+
 iframe {
   width: 600px !important;
   height: 326px !important;
@@ -157,13 +259,13 @@ iframe {
 #solutionContainer {
   transform: translateY(18px);
   border-bottom: 1px solid lightgrey;
-  height: 3000px;
+  height: 2443px;
 }
 
 #dermarollerContainer {
   transform: translateY(1475px);
   border-bottom: 1px solid lightgrey;
-  height: 1445px;
+  height: 869px;
 }
 #llltContainer {
   transform: translateY(1493px);
@@ -233,12 +335,12 @@ iframe {
   }
 
   #solutionContainer {
-    height: 2651px;
+    height: 2025px;
     border-bottom: none;
   }
 
   #dermarollerContainer {
-    height: 1974px;
+    height: 1352px;
     border-bottom: none;
     transform: translateY(3007px);
   }
@@ -255,7 +357,7 @@ iframe {
   }
 
   #recapContainer {
-    transform: translateY(2821px);
+    transform: translateY(2661px);
     border-bottom: none;
     /* height: 639px; */
   }

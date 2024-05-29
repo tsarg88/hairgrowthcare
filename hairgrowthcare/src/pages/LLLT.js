@@ -1,6 +1,7 @@
 import React from "react";
 import { useNav } from "../customHooks/useNav";
 import "./Page.css";
+import irestore from "../images/irestore.png"
 
 export const Lllt = () => {
   // useNav takes in a navLinkId and returns a ref
@@ -40,8 +41,11 @@ export const Lllt = () => {
             period(if you're not happy with the result), and they will offer to:
             extend the warranty, price reduction or refund!
           </p>
-          <div className="adPlace">
-            <iframe
+          <div className="irestore">
+            <a href="https://amzn.to/3yEgacn" target="_blank" rel="noopener noreferrer">
+              <img src={irestore} alt="Irestore" />
+            </a>
+            {/* <iframe
               sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
               style={{ width: "120px", height: "240px" }}
               marginwidth="0"
@@ -49,7 +53,7 @@ export const Lllt = () => {
               scrolling="no"
               frameborder="0"
               src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B07M5X4D3P&asins=B07M5X4D3P&linkId=84f65c24bcd6871106c9a5125d6c9b66&show_border=true&link_opens_in_new_window=true"
-            ></iframe>
+            ></iframe> */}
           </div>
         </body>
       </div>
