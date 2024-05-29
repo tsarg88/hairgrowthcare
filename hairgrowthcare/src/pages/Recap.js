@@ -53,7 +53,7 @@ export const Recap = () => {
             </a>{" "}
             and then apply (on dry hair){" "}
             <a
-              href="https://www.amazon.com/dp/B008BMOEGA/ref=cm_sw_r_as_gl_api_gl_i_HNEEBCB2Z2P4J5ZNB6D9?linkCode=ml2&tag=hgc03-20"
+              href="https://amzn.to/44YFhCX"
               target="_blank"
             >
               Kirkland Minoxidil 5% Extra Strength
@@ -100,7 +100,7 @@ export const Recap = () => {
             <br />
             apply{" "}
             <a
-              href="https://www.amazon.com/dp/B008BMOEGA/ref=cm_sw_r_as_gl_api_gl_i_HNEEBCB2Z2P4J5ZNB6D9?linkCode=ml2&tag=hgc03-20"
+              href="https://amzn.to/44YFhCX"
               target="_blank"
             >
               Kirkland Minoxidil 5% Extra Strength
