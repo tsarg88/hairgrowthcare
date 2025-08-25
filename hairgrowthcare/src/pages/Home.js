@@ -78,7 +78,7 @@ export const Home = () => {
         marginTop: "1.5rem",
         }}
       >
-        🚀 This site/domain is for sale — Please contact:{" "}
+        🚀 This site/domain is for sale — Please contact:{" "} 
       <a
         href="mailto:sartigran88@gmail.com"
         style={{ textDecoration: "underline", color: "#2563eb" }}
