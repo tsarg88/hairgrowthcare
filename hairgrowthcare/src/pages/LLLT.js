@@ -17,6 +17,25 @@ export const Lllt = () => {
       <div className="mainDiv">
         <h3 id="h3_lllt">LLLT</h3>
         <body>
+        <p
+        style={{
+        textAlign: "center",
+        fontSize: "1.5rem",
+        fontWeight: "bold",
+        color: "#dc2626", // red
+        marginTop: "1.5rem",
+        }}
+      >
+        🚀 This site/domain is for sale — Please contact:{" "}
+      <a
+        href="mailto:sartigran88@gmail.com"
+        style={{ textDecoration: "underline", color: "#2563eb" }}
+        onMouseOver={(e) => (e.currentTarget.style.color = "#1e40af")} // hover effect
+        onMouseOut={(e) => (e.currentTarget.style.color = "#2563eb")}
+      >
+        sartigran88@gmail.com
+      </a>
+    </p>
           <p>
             Using(and combining with other treatments) LLLT(
             <strong>Low-level laser therapy</strong>) device is going to be my

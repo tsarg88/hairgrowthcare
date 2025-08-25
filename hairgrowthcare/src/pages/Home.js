@@ -12,7 +12,26 @@ export const Home = () => {
 
   return (
     <section ref={homeRef} id="homeContainer">
-      <div className="mainDiv">
+    <div className="mainDiv">
+    <p
+        style={{
+        textAlign: "center",
+        fontSize: "1.5rem",
+        fontWeight: "bold",
+        color: "#dc2626", // red
+        marginTop: "1.5rem",
+        }}
+      >
+        🚀 This site/domain is for sale — Please contact:{" "}
+      <a
+        href="mailto:sartigran88@gmail.com"
+        style={{ textDecoration: "underline", color: "#2563eb" }}
+        onMouseOver={(e) => (e.currentTarget.style.color = "#1e40af")} // hover effect
+        onMouseOut={(e) => (e.currentTarget.style.color = "#2563eb")}
+      >
+        sartigran88@gmail.com
+      </a>
+    </p>
         <h3 id="h3_home">HOME</h3>
         <body>
           <p>
@@ -49,6 +68,27 @@ export const Home = () => {
             optimistic that new, effective, and painless treatment alternatives
             to hair transplant surgeries will be available in the near future!
           </p>
+
+          <p
+        style={{
+        textAlign: "center",
+        fontSize: "1.5rem",
+        fontWeight: "bold",
+        color: "#dc2626", // red
+        marginTop: "1.5rem",
+        }}
+      >
+        🚀 This site/domain is for sale — Please contact:{" "}
+      <a
+        href="mailto:sartigran88@gmail.com"
+        style={{ textDecoration: "underline", color: "#2563eb" }}
+        onMouseOver={(e) => (e.currentTarget.style.color = "#1e40af")} // hover effect
+        onMouseOut={(e) => (e.currentTarget.style.color = "#2563eb")}
+      >
+        sartigran88@gmail.com
+      </a>
+    </p>
+          
         </body>
       </div>
       <div id="adPlace"></div>

@@ -23,6 +23,25 @@ export const Solutions = () => {
       <div className="mainDiv">
         <h3 id="h3_solutions">Solutions</h3>
         <body>
+    <p
+        style={{
+        textAlign: "center",
+        fontSize: "1.5rem",
+        fontWeight: "bold",
+        color: "#dc2626", // red
+        marginTop: "1.5rem",
+        }}
+      >
+        🚀 This site/domain is for sale — Please contact:{" "}
+      <a
+        href="mailto:sartigran88@gmail.com"
+        style={{ textDecoration: "underline", color: "#2563eb" }}
+        onMouseOver={(e) => (e.currentTarget.style.color = "#1e40af")} // hover effect
+        onMouseOut={(e) => (e.currentTarget.style.color = "#2563eb")}
+      >
+        sartigran88@gmail.com
+      </a>
+    </p>
           <p>
             One of the first things that usually we turn into when we notice
             hair loss is the solutions; which could be — topical, foam, or
@@ -336,20 +355,27 @@ export const Solutions = () => {
             those natural and healthy ingredients you add one more --{" "}
             <strong>a healthy alternative</strong> to Finasteride!
           </p>
-          <div className="pomade">
-            <a href="https://amzn.to/3ViKYbp" target="_blank" rel="noopener noreferrer">
-              <img src={pomade} alt="Keeps Pomade" />
-            </a>
-            {/* <iframe
-              sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
-              style={{ width: 120, height: 240 }}
-              marginwidth="0"
-              marginheight="0"
-              scrolling="no"
-              frameborder="0"
-              src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=hgc03-20&language=en_US&marketplace=amazon&region=US&placement=B09WDXPZY1&asins=B09WDXPZY1&linkId=8042d4850568304f1fa255cb242510eb&show_border=true&link_opens_in_new_window=true"
-            ></iframe> */}
-          </div>
+          <p
+        style={{
+        textAlign: "center",
+        fontSize: "1.5rem",
+        fontWeight: "bold",
+        color: "#dc2626", // red
+        marginTop: "1.5rem",
+        }}
+      >
+        🚀 This site/domain is for sale — Please contact:{" "}
+      <a
+        href="mailto:sartigran88@gmail.com"
+        style={{ textDecoration: "underline", color: "#2563eb" }}
+        onMouseOver={(e) => (e.currentTarget.style.color = "#1e40af")} // hover effect
+        onMouseOut={(e) => (e.currentTarget.style.color = "#2563eb")}
+      >
+       
+       sartigran88@gmail.com<br />
+      </a>
+    </p>
+        
         </body>
       </div>
     </section>
