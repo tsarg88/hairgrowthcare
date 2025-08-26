@@ -129,11 +129,12 @@ export const Recap = () => {
               <br />I would recommend using the Dermaroller after taking shower
               and drying out with dryer -- as the application would be more
               smooth and painless!
+              <br/>
             </div>
           </p>
           <br />
           <p>
-            Thanks again for visiting! I do really hope that my recommendations
+            <br/>Thanks again for visiting! I do really hope that my recommendations
             will help you to <strong>stop</strong> hair loss and{" "}
             <strong>regrow!</strong> <br />
             if you have any question/concerns, please use this{" "}
@@ -145,7 +146,7 @@ export const Recap = () => {
               Facebook page!
             </a>
           </p>
-          <p
+    <p
         style={{
         textAlign: "center",
         fontSize: "1.5rem",
