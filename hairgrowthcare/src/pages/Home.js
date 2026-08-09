@@ -24,12 +24,12 @@ export const Home = () => {
       >
         🚀 This site/domain is for sale — Please contact:{" "}
       <a
-        href="mailto:sartigran88@gmail.com"
+        href="mailto:t.sargsyan.work@gmail.com"
         style={{ textDecoration: "underline", color: "#2563eb" }}
         onMouseOver={(e) => (e.currentTarget.style.color = "#1e40af")} // hover effect
         onMouseOut={(e) => (e.currentTarget.style.color = "#2563eb")}
       >
-        sartigran88@gmail.com
+        t.sargsyan.work@gmail.com
       </a>
     </p>
         <h3 id="h3_home">HOME</h3>
@@ -80,12 +80,12 @@ export const Home = () => {
       >
         🚀 This site/domain is for sale — Please contact:{" "} 
       <a
-        href="mailto:sartigran88@gmail.com"
+        href="mailto:t.sargsyan.work@gmail.com"
         style={{ textDecoration: "underline", color: "#2563eb" }}
         onMouseOver={(e) => (e.currentTarget.style.color = "#1e40af")} // hover effect
         onMouseOut={(e) => (e.currentTarget.style.color = "#2563eb")}
       >
-        sartigran88@gmail.com
+        t.sargsyan.work@gmail.com
       </a>
     </p>
           
