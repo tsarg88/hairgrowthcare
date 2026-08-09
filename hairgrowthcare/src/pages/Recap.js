@@ -30,12 +30,12 @@ export const Recap = () => {
       >
         🚀 This site/domain is for sale — Please contact:{" "}
       <a
-        href="mailto:sartigran88@gmail.com"
+        href="mailto:t.sargsyan.work@gmail.comm"
         style={{ textDecoration: "underline", color: "#2563eb" }}
         onMouseOver={(e) => (e.currentTarget.style.color = "#1e40af")} // hover effect
         onMouseOut={(e) => (e.currentTarget.style.color = "#2563eb")}
       >
-        sartigran88@gmail.com
+         t.sargsyan.work@gmail.com
       </a>
     </p>
           <p>
@@ -157,12 +157,12 @@ export const Recap = () => {
       >
         🚀 This site/domain is for sale — Please contact:{" "}
       <a
-        href="mailto:sartigran88@gmail.com"
+        href="mailto:t.sargsyan.work@gmail.com"
         style={{ textDecoration: "underline", color: "#2563eb" }}
         onMouseOver={(e) => (e.currentTarget.style.color = "#1e40af")} // hover effect
         onMouseOut={(e) => (e.currentTarget.style.color = "#2563eb")}
       >
-        sartigran88@gmail.com
+         t.sargsyan.work@gmail.com
       </a>
     </p>
         </body>
