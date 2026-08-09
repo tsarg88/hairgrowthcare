@@ -371,7 +371,7 @@ export const Solutions = () => {
         onMouseOver={(e) => (e.currentTarget.style.color = "#1e40af")} // hover effect
         onMouseOut={(e) => (e.currentTarget.style.color = "#2563eb")}
       >
-       
+        
        t.sargsyan.work@gmail.com<br />
       </a>
     </p>
